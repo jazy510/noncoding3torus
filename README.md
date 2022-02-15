@@ -377,9 +377,13 @@ To guard against replication/duplication errors, there are fairly robust mechani
 - Are there other molecular machines that perform these types of functions that aren't exonuclease?
 
 An partial, fictional, example of a pseudo-function of an exonuclease of interest would be (Following the pattern of 4s):
+
  Read random sequence Until The Sum of the last 8 Bases is 13 (Where A = 00, T = 11, C = 01, G = 10) and set to state 1, 
+ 
     Set state 1: Put internal variable 1 to state 1, variable 2 into state 0, variable 3 into state 0, and variable 4 to state 3
+    
  Skip 4 sequences and Read, If Sum is 14, Skip 4 Sequences and put into state 2, else Error and Replace with C
+ 
  Read, If Sum == 14, sequence is good, else if Sum == 16 excise base and put in state 3... etc.
 
 
