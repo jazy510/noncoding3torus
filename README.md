@@ -1,8 +1,8 @@
 # TLDR/BLUF 
 
-Despite a strong statistical improbability, significant portions of the non-coding sections of the genomes of multiple species (including Homo Sapiens) are found to generate [[Three-Dimensional Toruses](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)] with a One-Half Mobius twist per face interconnect when 64-base sequences are mapped into a cubic structure.  
+Despite a strong statistical improbability, significant portions of the non-coding sections of the genomes of multiple species (including Homo Sapiens) are found to generate [Three-Dimensional Toruses](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif) with a One-Half Mobius twist per face interconnect when 64-base sequences are mapped into a cubic structure.  
 
-The nature of this mathematical structure may lead to a large-scale [[3D-Torus interconnect](https://en.wikipedia.org/wiki/Torus_interconnect)] that is self-ordering, self-orienting, and self-error detecting.  The fact that this mathematical structure is found pervasively through our DNA needs to be examined and verified or refuted by statisticians, mathematical topologists, geneticists, computer scientists, information theorists, computational biologists, and informatics experts in academia and the public sector.  Program source code and instructions have been provided to bootstrap and expedite analytic efforts.
+The nature of this mathematical structure may lead to a large-scale [3D-Torus interconnect](https://en.wikipedia.org/wiki/Torus_interconnect) that is self-ordering, self-orienting, and self-error detecting.  The fact that this mathematical structure is found pervasively through our DNA needs to be examined and verified or refuted by statisticians, mathematical topologists, geneticists, computer scientists, information theorists, computational biologists, and informatics experts in academia and the public sector.  Program source code and instructions have been provided to bootstrap and expedite analytic efforts.
 
 
 
@@ -55,7 +55,7 @@ It is hoped that the 50+ billion man-years of knowledge, intellect, history, and
 
 
 
-On 21 October 2021, "Theories of Everything" producer Curt Jaimungal [[interviewed](http://youtu.be/wULw64ZL1BG?t=2430)] [[Luis Elizondo](https://en.m.wikipedia.org/wiki/Luis_Elizondo)].  During the interview Mr. Elizondo highlighted the fact that one could place a message in DNA that could survive for millions of years; and alluded that such a message exists.  Although discussed for a short time, no effort was publicly announced by either independent or organizational researchers to verify or refute his claims.  Given the ramifications if such a message did in fact exist, despite the minuscule chance of a positive finding, it was deemed worthwhile to independently apply some analytic effort and computational resources to determine if his comments held merit.  If academia wasn't go to get involved and the governments of the world weren't going to release the information (if they have any), then a results-oriented, stubborn-as-heck, ignorance-loathing, hates-being-lied-to, obsessive-puzzle-solving, well-educated-but-not-too-bright, random-person-on-the-Internet is going to have to do it for them; which is exactly what they were calling for.
+On 21 October 2021, "Theories of Everything" producer Curt Jaimungal [interviewed](http://youtu.be/wULw64ZL1BG?t=2430) [Luis Elizondo](https://en.m.wikipedia.org/wiki/Luis_Elizondo).  During the interview Mr. Elizondo highlighted the fact that one could place a message in DNA that could survive for millions of years; and alluded that such a message exists.  Although discussed for a short time, no effort was publicly announced by either independent or organizational researchers to verify or refute his claims.  Given the ramifications if such a message did in fact exist, despite the minuscule chance of a positive finding, it was deemed worthwhile to independently apply some analytic effort and computational resources to determine if his comments held merit.  If academia wasn't go to get involved and the governments of the world weren't going to release the information (if they have any), then a results-oriented, stubborn-as-heck, ignorance-loathing, hates-being-lied-to, obsessive-puzzle-solving, well-educated-but-not-too-bright, random-person-on-the-Internet is going to have to do it for them; which is exactly what they were calling for.
 
 The following analysis makes no attempt to determine who or what placed messages into the DNA of, what was later be found, multiple species that include humans.  Nor does the analysis dismiss that the structure could be naturally occurring.  Despite no apparent natural selective pressure; there could be some molecular machinery that prefers to pervasively generate 64-base, 3-Torus with 1/2 Mobius twist mathematical structures.
 
@@ -71,28 +71,28 @@ Before continuing, three basic topics need to be reviewed.  Those topics are DNA
 ## DNA 
 
 
-The information in [[DNA](https://en.wikipedia.org/wiki/DNA)] is composed of four base molecules, each represented here by a single letter: A, T, C, G.  These letters are called bases or base pairs.  
+The information in [DNA](https://en.wikipedia.org/wiki/DNA) is composed of four base molecules, each represented here by a single letter: A, T, C, G.  These letters are called bases or base pairs.  
 
-The [[human genome](https://en.wikipedia.org/wiki/Human_genome)] has approximately three billion of these base pairs.
+The [human genome](https://en.wikipedia.org/wiki/Human_genome) has approximately three billion of these base pairs.
 
 They are called base pairs because the letters are stored and copied in pairs; these pairs come attached to one another in long strands of DNA.
 
   'A' pairs with 'T', and 'C' pairs with 'G'.
 
-During [[DNA replication](https://en.wikipedia.org/wiki/DNA_replication)] the A's and T's are split apart and the C's and G's are split apart in long chains.  New A,T,C, and G bases are added to each pair of the chains to end up with two exact copies of the original DNA chain.
+During [DNA replication](https://en.wikipedia.org/wiki/DNA_replication) the A's and T's are split apart and the C's and G's are split apart in long chains.  New A,T,C, and G bases are added to each pair of the chains to end up with two exact copies of the original DNA chain.
 
-Of the three billion bases in the human genome only about ONE PERCENT are used to code [[protiens](https://en.wikipedia.org/wiki/Protein)].  Proteins are what make up the bulk of everything that makes you.  Protiens are made during the process of [[DNA transcription](https://en.wikipedia.org/wiki/Transcription_(biology))]
+Of the three billion bases in the human genome only about ONE PERCENT are used to code [protiens](https://en.wikipedia.org/wiki/Protein).  Proteins are what make up the bulk of everything that makes you.  Protiens are made during the process of [DNA transcription](https://en.wikipedia.org/wiki/Transcription_(biology))
 
-The remaining 99 PERCENT of the three billion bases constitute something called [[non-coding DNA](https://en.wikipedia.org/wiki/Non-coding_DNA)], often refereed to as "Junk DNA".
+The remaining 99 PERCENT of the three billion bases constitute something called [non-coding DNA](https://en.wikipedia.org/wiki/Non-coding_DNA), often refereed to as "Junk DNA".
 
-"Junk DNA" has been found to be anything but junk.  The non-coding sections of DNA have areas that regulate the [[expression](https://en.wikipedia.org/wiki/Gene_expression)] of proteins.
+"Junk DNA" has been found to be anything but junk.  The non-coding sections of DNA have areas that regulate the [expression](https://en.wikipedia.org/wiki/Gene_expression) of proteins.
 
 Still, roughly and conservatively, 80 PERCENT of the Human genome is found to have no function whatsoever.  I has been assumed that the "Junk DNA" is residual from virus DNA, bacterial DNA, and mutations that have found there way into our genome via various means and propagated indefinitely.  This means that about 2.4 Billion bases have no known function.
 
 
 ## DNA INFORMATION THEORY
 
-DNA can be viewed as a digital storage mechanism; and [[has been used as such](https://en.wikipedia.org/wiki/DNA_digital_data_storage)].  It is a like a Hard Drive that is stored in every one of your cells.
+DNA can be viewed as a digital storage mechanism; and [has been used as such](https://en.wikipedia.org/wiki/DNA_digital_data_storage).  It is a like a Hard Drive that is stored in every one of your cells.
 
 Each of the base pairs can be viewed as digital information.  A single base constitutes two-bits of information; two 1's or 0's.  A system of numbering/digital assignment can then be applied to DNA.  Since certain bases pair with other bases, it is best to assign to each a complimentary/inverted number to the opposite base pair.  For this sake of this exercise the following mappings were applied:
 
@@ -124,58 +124,58 @@ The cryptographic hashes of the above file are:
 
 "Randomness" is a very hard thing to measure.  "Randomness" is generally a measure of multiple different measurements.  There is no binary yes or no answer to the question "Is It Random?".  One such measure is that of Entropy.
 
-[[Entropy](https://en.wikipedia.org/wiki/Entropy)].  Entropy can be summarized as the measure of statistical disorder.  A repeating sequence of 'ATGC' 100 times will have high entropy if the whole corpus of available values is only A,T,G, and C; but it will not have high randomness.  Entropy is easy to calculate and not too computationally expensive, so it is used as our basic measure to determine uniqueness through the analysis.  As an example, the sequence 'AAAAAAAAAAA' will have ZERO entropy; but 'AAAAAAABBBBBBB' will have an entropy of 1.  In our analysis, since we are working strictly with 'ATGC', the maximum entropy we can have is 2.  If multiple letters were combined in binary form and assigned their own symbol the entropy measurement could go much higher.
+[Entropy](https://en.wikipedia.org/wiki/Entropy).  Entropy can be summarized as the measure of statistical disorder.  A repeating sequence of 'ATGC' 100 times will have high entropy if the whole corpus of available values is only A,T,G, and C; but it will not have high randomness.  Entropy is easy to calculate and not too computationally expensive, so it is used as our basic measure to determine uniqueness through the analysis.  As an example, the sequence 'AAAAAAAAAAA' will have ZERO entropy; but 'AAAAAAABBBBBBB' will have an entropy of 1.  In our analysis, since we are working strictly with 'ATGC', the maximum entropy we can have is 2.  If multiple letters were combined in binary form and assigned their own symbol the entropy measurement could go much higher.
 
-[[The Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem)] is an interesting problem in statistics.  In the classical problem there are are room full of individuals. When asking "How many people does there need to be in the room for a 50% chance that at least two people in the room will have the same birthday.", one would assume there would have to be a high number of persons given that there are 365 days in a year.  However, it ends up that less than 10% of that number are needed.  This same situation applies in the analysis of DNA.  Instead of 365 days in a year, we essentially have 3.2 Billion days.  Instead of students, we have length of unique sequences.  The shorter the sequence of comparison, the fewer number of individuals it would take to find a match.
+[The Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem) is an interesting problem in statistics.  In the classical problem there are are room full of individuals. When asking "How many people does there need to be in the room for a 50% chance that at least two people in the room will have the same birthday.", one would assume there would have to be a high number of persons given that there are 365 days in a year.  However, it ends up that less than 10% of that number are needed.  This same situation applies in the analysis of DNA.  Instead of 365 days in a year, we essentially have 3.2 Billion days.  Instead of students, we have length of unique sequences.  The shorter the sequence of comparison, the fewer number of individuals it would take to find a match.
 
 Interestingly, the Birthday Paradox can be used as a proof of contradiction in this analysis.  One would assume that a given sequence selection of length would statistically be expected to be found X number of times.  If under multiple instances, in the hundreds to thousands, a very strong case of a statistical anomaly could be found using this technique.  It would make the case even stronger if that type of anomaly only exists in instances where the geometry of the sequence selection match a certain pattern. < End strong foreshadowing. ;) > 
 
 
-[[ERROR CORRECTION AND FORWARD ERROR CORRECT- FEC](https://en.wikipedia.org/wiki/Error_correction_code)] is a method to include extra data in a data stream to both detect and correct errors.  There are multiple methods to perform error correction, and one could even devise their own error correction schemes.  However, there are limits to how little of information that must be sent in order to detect and correct an error of a given size.  Data redundancy is the simplest and least inefficient form of error detection and correction.
+[ERROR CORRECTION AND FORWARD ERROR CORRECT- FEC](https://en.wikipedia.org/wiki/Error_correction_code) is a method to include extra data in a data stream to both detect and correct errors.  There are multiple methods to perform error correction, and one could even devise their own error correction schemes.  However, there are limits to how little of information that must be sent in order to detect and correct an error of a given size.  Data redundancy is the simplest and least inefficient form of error detection and correction.
 
 
 ## TORUSES AND MOBIUS TWISTS 
 
-A [[Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)] is a one-dimensional object that sweeps out [[two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg)] in three dimension and a 180 Degree twist is added. It is one of the most mathematically interesting objects ever conceived.  It only has one side!  If you follow your finger along the Mobius strip you will find you can return to the point from where you started without ever lifting up your finger.
+A [Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) is a one-dimensional object that sweeps out [two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg) in three dimension and a 180 Degree twist is added. It is one of the most mathematically interesting objects ever conceived.  It only has one side!  If you follow your finger along the Mobius strip you will find you can return to the point from where you started without ever lifting up your finger.
 
-The Mobius strip is a VERY important shape in the study of physics.  It is directly related to the physics object of [[spinors](https://en.wikipedia.org/wiki/Spinor)].  Spinors, in various configurations, pairs, rotations, and transformation can be used to describe various particles and fields in the study of physics.
+The Mobius strip is a VERY important shape in the study of physics.  It is directly related to the physics object of [spinors](https://en.wikipedia.org/wiki/Spinor).  Spinors, in various configurations, pairs, rotations, and transformation can be used to describe various particles and fields in the study of physics.
 
-Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [[Torus](https://en.wikipedia.org/wiki/Torus)].  [[The example directly from the Wikipedia page is actually a very ineresting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)]  This particular torus creates a double-cover sphere, which has very deep ties to the [[Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics))].  
+Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [Torus](https://en.wikipedia.org/wiki/Torus).  [The example directly from the Wikipedia page is actually a very ineresting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)  This particular torus creates a double-cover sphere, which has very deep ties to the [Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics)).  
 
 If you start with a two-dimensional square and sweep out a 3-volume, you would end up with a square 2-Torus.
 
-Please visit [[this Wolfram demonstration project](https://demonstrations.wolfram.com/MoebiusStripAsAHalfTwistedSquareTorus/)] to follow along to understand the shapes we will be discussing through this section.
+Please visit [this Wolfram demonstration project](https://demonstrations.wolfram.com/MoebiusStripAsAHalfTwistedSquareTorus/) to follow along to understand the shapes we will be discussing through this section.
 
-Combining the idea of a square sweeping out three dimensions, and adding Mobius twist you get [[this object.](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png)]  This is a square 2-Torus with a Mobius Twist. 
+Combining the idea of a square sweeping out three dimensions, and adding Mobius twist you get [this object.](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png) This is a square 2-Torus with a Mobius Twist. 
 
 Very interesting things start to happen when you sweep out a 3-Dimensional Torus. To understand the shape we will progress step-by-step. First start with a Cube. Take one face of the cube and sweep out the cube in three dimensions, giving it a 1/2 Mobius twist.  
-Sticking to the X-direction you get [[this.](https://web.archive.org/web/20220213201249if_/https://i.imgur.com/UUSOszg.png)]
+Sticking to the X-direction you get [this.](https://web.archive.org/web/20220213201249if_/https://i.imgur.com/UUSOszg.png)
 
-Then moving to the Y-direction you get [[this.](https://web.archive.org/web/20220213201236if_/https://i.imgur.com/n0DO9Ev.png)]
+Then moving to the Y-direction you get [this.](https://web.archive.org/web/20220213201236if_/https://i.imgur.com/n0DO9Ev.png)
 
-Finally the Z-direction you get [[this.](https://web.archive.org/web/20220213201216if_/https://i.imgur.com/BB1oNb2.png]
+Finally the Z-direction you get [this.](https://web.archive.org/web/20220213201216if_/https://i.imgur.com/BB1oNb2.png)
 
-If you superimpose the three separate toruses on top of one another you get [[this shape.](https://web.archive.org/web/20220213201338if_/https://i.imgur.com/oXY0cMZ.png)]
+If you superimpose the three separate toruses on top of one another you get [this shape.](https://web.archive.org/web/20220213201338if_/https://i.imgur.com/oXY0cMZ.png)
 
-However, that shape is nothing close to what it actually is despite what you may think.  Imagine you sweep out and get the square torus from the X-direction above.  Now simultaneously sweep out the Y-direction.  If you can visualize it, you would end up with something similar to a hollow donuts twisted in on itself.  However, you have yet to complete the full 3-Torus.  From that twisted hollow-donuts, extend the remaining faces to each other and twist them.  The closest image that could be found is [[this.](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)]  That image however does not include the 1/2 mobius twist of each face.
+However, that shape is nothing close to what it actually is despite what you may think.  Imagine you sweep out and get the square torus from the X-direction above.  Now simultaneously sweep out the Y-direction.  If you can visualize it, you would end up with something similar to a hollow donuts twisted in on itself.  However, you have yet to complete the full 3-Torus.  From that twisted hollow-donuts, extend the remaining faces to each other and twist them.  The closest image that could be found is [this.](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)  That image however does not include the 1/2 mobius twist of each face.
 
-Another example would be to use a [[standard 6-sided gaming die.](https://web.archive.org/web/20220213201543if_/https://i.imgur.com/SV32jd0.jpeg)].
+Another example would be to use a [standard 6-sided gaming die.](https://web.archive.org/web/20220213201543if_/https://i.imgur.com/SV32jd0.jpeg)
 
-[[Connect the first set of opposing faces.](https://web.archive.org/web/20220213201528if_/https://i.imgur.com/E6JOMAM.jpeg)]
+[Connect the first set of opposing faces.](https://web.archive.org/web/20220213201528if_/https://i.imgur.com/E6JOMAM.jpeg)
 
-[[Do it to another set of opposing faces.](https://web.archive.org/web/20220213201516if_/https://i.imgur.com/uhjXIAM.jpeg)]
+[Do it to another set of opposing faces.](https://web.archive.org/web/20220213201516if_/https://i.imgur.com/uhjXIAM.jpeg)
 
-[[Then the third set.](https://web.archive.org/web/20220213201505if_/https://i.imgur.com/YaMD4kv.jpeg)]
+[Then the third set.](https://web.archive.org/web/20220213201505if_/https://i.imgur.com/YaMD4kv.jpeg)
 
-[[Finally, put a 180 degree twist on each face.](https://web.archive.org/web/20220213201432if_/https://i.imgur.com/kIrOQ40.jpeg]
+[Finally, put a 180 degree twist on each face.](https://web.archive.org/web/20220213201432if_/https://i.imgur.com/kIrOQ40.jpeg)
 
-Rather than repeating "A Cubic Three-Torus with a 1/2 Mobius Twist" hundreds of times, these cubes are referenced as "ONESSELF" cubes; playing off of a popular quote from a famous movie; [["Know Thyself"](https://youtu.be/kl0rqoRbzzU?t=90)].  To known ones-self you must find ones-self; but to find ones-self you must know ones-self.  It is not easy to find ones-self!
+Rather than repeating "A Cubic Three-Torus with a 1/2 Mobius Twist" hundreds of times, these cubes are referenced as "ONESSELF" cubes; playing off of a popular quote from a famous movie; ["Know Thyself"](https://youtu.be/kl0rqoRbzzU?t=90).  To known ones-self you must find ones-self; but to find ones-self you must know ones-self.  It is not easy to find ones-self!
 
-This structure cannot exist in three dimensions without intersecting with itself.  It is very similar to the idea of a [[Klein Bottle](https://en.wikipedia.org/wiki/Klein_bottle)].
+This structure cannot exist in three dimensions without intersecting with itself.  It is very similar to the idea of a [Klein Bottle](https://en.wikipedia.org/wiki/Klein_bottle).
 
 Not being a mathematical topologist, one could only guess that a ONESSELF cube is a Four-Dimensional object; but it could be 3, 4, 6, or 8 depending on how you look at it.  Is it still considered a Cubic 3-Torus with a 1/2 Mobius twist you if you remove the volume of the cube?  In that case there would be three independent two-surfaces inhabiting 2/3 of the full 3-Volume, but the twist may extend it to 6 dimensions.  What if this shape is the shape of the space the cube occupies or the cube is a construct of the nature of the space.  It gets very difficult to understand and comprehend very quickly.  The opinion of a mathematical topologist on the subject would be greatly appreciated.
 
-Finally, we have to touch on [[Torus Interconnects.](https://en.wikipedia.org/wiki/Torus_interconnect)]  If one were to [[extend each cube face to its neighbors](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)] so that it is a fully-connected network you would have a Torus Interconnect.  The image shows that each node in the network is a ONESSELF cube, but that not may be the case.  As long as each face is connected to its neighbor and the "END" cubes connect to one-another, it is a fully-connected Torus interconnect/network.  Each cube could also have a 1/2 Mobius twist to its neighbors and still retain the torus interconnect structure.  IBM's Blue Gene supercomputers use such multi-dimensional torus interconnects; and are quite coincidentally named! 
+Finally, we have to touch on [Torus Interconnects.](https://en.wikipedia.org/wiki/Torus_interconnect) If one were to [extend each cube face to its neighbors](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png) so that it is a fully-connected network you would have a Torus Interconnect.  The image shows that each node in the network is a ONESSELF cube, but that not may be the case.  As long as each face is connected to its neighbor and the "END" cubes connect to one-another, it is a fully-connected Torus interconnect/network.  Each cube could also have a 1/2 Mobius twist to its neighbors and still retain the torus interconnect structure.  IBM's Blue Gene supercomputers use such multi-dimensional torus interconnects; and are quite coincidentally named! 
 
 
 
@@ -183,7 +183,7 @@ Finally, we have to touch on [[Torus Interconnects.](https://en.wikipedia.org/wi
 
 
 
-The [[Shannon-Weaver model](https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model)] traditionally has five elements, but more elements seem to be applicable in this case.  
+The [Shannon-Weaver model](https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model) traditionally has five elements, but more elements seem to be applicable in this case.  
 
 - Sender
 - Sender Message Intended Interpretation and Actions
@@ -257,16 +257,16 @@ The only viable counters available to the receiver is to control the feedback me
 Message encryption is used to provide confidentiality and integrity validation of data.  Barring a variety of weaknesses, encryption of a message should provide the sender of the information a level of confidence that no one but the intended recipient could read the contents of the message.
 
 Two primary forms of encryption could be used to modify the message data for confidentiality.
-- [[Symmetric Key Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)]
-- [[One-Time-Pad](https://en.wikipedia.org/wiki/One-time_pad)]
+- [Symmetric Key Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+- [One-Time-Pad](https://en.wikipedia.org/wiki/One-time_pad)
 
-An example of Private-Key/Symmetric-Key encryption is [[AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)].  If both the sender and receiver have the same encryption key, the message could be changed in such a manner that only the recipient could properly understand it.
+An example of Private-Key/Symmetric-Key encryption is [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard).  If both the sender and receiver have the same encryption key, the message could be changed in such a manner that only the recipient could properly understand it.
 
-There are known weaknesses and [[multitudes of attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks)] available for various encryption algorithms.  Barring any weakness in the underlying encryption algorithm used, and assurance that the encryption key has not been given to a third party, the communications channel between the sender and recipient can be assumed to be secure.
+There are known weaknesses and [multitudes of attacks](https://en.wikipedia.org/wiki/Category:Cryptographic_attacks) available for various encryption algorithms.  Barring any weakness in the underlying encryption algorithm used, and assurance that the encryption key has not been given to a third party, the communications channel between the sender and recipient can be assumed to be secure.
 
 One would hope that any entity capable of putting a message in our DNA would also have the ability to properly build an encryption algorithm that is unbreakable.  Private-Key Encryption schemes are inherently Quantum resistant so would be a good choice.
 
-[[Public-Key Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)] could be used if it is encrypted to a recipient who holds a given private key.  A possibility is that the sender could encrypt a message to a recipient that is expected to have the ability to recover a private key from a public key.  This level of technical ability would ensure that the receiver is of sufficiently advanced to comprehend the message.
+[Public-Key Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) could be used if it is encrypted to a recipient who holds a given private key.  A possibility is that the sender could encrypt a message to a recipient that is expected to have the ability to recover a private key from a public key.  This level of technical ability would ensure that the receiver is of sufficiently advanced to comprehend the message.
 
 Assuming one were to use a very strong random number generator, a One-Time-Pad (OTP) would be a great way to encrypt the data.  With an OTP system they key is the same length as the encrypted message.  The message data is combined with the OTP key in a simple manner, and the process reversed on decryption.  There are only two inherent weaknesses to an OTP scheme.  First, like the Private-Key method is the leaking of the key to a third party.  The second is the ability of a third party to determine the internal state of the random number generator that generated the key.  If the state can be recovered from analysis of the message, then a third party could decrypt the data.
 
@@ -274,7 +274,7 @@ Again, one would hope that a sufficiently advanced sender would have a random nu
 
 Unless other transformations are applied, or care is taken to hide the contents of the encrypted message, a simple entropy test on a message of sufficient length is generally enough to determine if it is encrypted or not.
 
-It is unknown if any encryption is applied, nor at what level it would be applied.  Encryption could be applied at the MESSAGE level, or at the MESSAGE PIECE level.  Depending on the encryption scheme the entire encrypted message MAY be needed to decrypt and get ANY of the message information.  If it is encrypted at the MESSAGE PIECE level using a [[block-cipher](https://en.wikipedia.org/wiki/Block_cipher)], then the majority of the message could be reconstructed if the encryption key is known. 
+It is unknown if any encryption is applied, nor at what level it would be applied.  Encryption could be applied at the MESSAGE level, or at the MESSAGE PIECE level.  Depending on the encryption scheme the entire encrypted message MAY be needed to decrypt and get ANY of the message information.  If it is encrypted at the MESSAGE PIECE level using a [block-cipher](https://en.wikipedia.org/wiki/Block_cipher), then the majority of the message could be reconstructed if the encryption key is known. 
 
 
 ## MESSAGE CONTAINERIZATION 
@@ -292,7 +292,7 @@ After encoding and encrypting the message, the message pieces in the message con
 
   The message containers, although technically being both stored and transmitted, are being transmitted through a species temporally.  
 
-This communication channel is a [[multi-cast](https://en.wikipedia.org/wiki/Multicast)] architecture of extremely high bandwidth.  The multi-cast destination would be any organism that carries a message block to which a receiver has access.
+This communication channel is a [multi-cast](https://en.wikipedia.org/wiki/Multicast) architecture of extremely high bandwidth.  The multi-cast destination would be any organism that carries a message block to which a receiver has access.
 
 The channel can be any biological organism with non-coding sections of DNA or RNA.  Every genome sampled that had non-coding DNA sections had probable 3-Torus cubes in them.  However, not all genomes sampled have onesself cubes.  
 
@@ -307,7 +307,7 @@ The containers may be designed in such a way that should all adjacent containers
 
 ## NOISE
 
-Anybody who has performed lab work in [[DNA swapping](https://web.archive.org/web/20220212214131if_/https://c.tenor.com/MxraJlBpR1wAAAAC/mr-bean-sitcom.gif)] and [[replication](https://web.archive.org/web/20211011013459if_/https://c.tenor.com/6Ly_NJuJjpsAAAAC/betty-white-winking.gif)] knows that the message channels can be very noisy.  
+Anybody who has performed lab work in [DNA swapping](https://web.archive.org/web/20220212214131if_/https://c.tenor.com/MxraJlBpR1wAAAAC/mr-bean-sitcom.gif) and [replication](https://web.archive.org/web/20211011013459if_/https://c.tenor.com/6Ly_NJuJjpsAAAAC/betty-white-winking.gif) knows that the message channels can be very noisy.  
 
 Three basic types of noise are present in biological channels that could effect transmission of any message container.
 - Base Mutations
@@ -339,7 +339,7 @@ Another form of Forward Error Correction (FEC), highlighted in the MESSAGE CONTA
 To guard against replication/duplication errors, there are fairly robust mechanisms that exist.  They won't all be highlighted here.  There are several questions that could be answered to help narrow down the search for the FEC algorithm and different Signal Boosting methods.
 
 - Are there different bio-mechanical mechanisms that perform the DNA duplication process between coding and non-coding sections?
-- What are the known checks that the [[exonuclease](https://en.wikipedia.org/wiki/Exonuclease)] performs?
+- What are the known checks that the [exonuclease](https://en.wikipedia.org/wiki/Exonuclease) performs?
 - Are there different checks between the coding and non-coding sections that different exonucleases perform?
 - Is there a way to determine the different checks that the exonucleases perform?
 - Is it possible, given the structure of the various exonuclease molecules, to determine the computation they perform on the non-coding DNA sections to determine if an error exists and needs to be corrected?
@@ -361,7 +361,7 @@ Message container detection methods would be determined by who the recipient is.
 
 If the recipient is the intended recipient of the sender, detection would be forthright since the method of detection is probably shared apriori.  The number of methods to determine if a certain sequence is a message or message container could be nearly infinite and only known to the sender and recipient.  They would however be limited to what is biologically possible in the organism that is carrying the message container. 
 
-However, if the recipient is not the intended recipient, or the recipient needs to figure out how to find the message or message container, we would find that is the situation we are in now.  If some type of message [[stenography](https://en.wikipedia.org/wiki/Steganography)] were used, detection would be very difficult.
+However, if the recipient is not the intended recipient, or the recipient needs to figure out how to find the message or message container, we would find that is the situation we are in now.  If some type of message [stenography](https://en.wikipedia.org/wiki/Steganography) were used, detection would be very difficult.
 
 An analysis could be performed on the genome, looking specifically at the non-coding sequences since that would be the most likely place to put messages of significant size.  The coding sections of DNA could hold messages, but it would be exponentially more difficult to create an efficient protein while also placing a worthwhile message, message piece, or message container within it.  
 
@@ -405,7 +405,7 @@ For continuity; understand that the message is broken up into small pieces, wrap
 
 If sufficient data is available, a simple entropy test is generally enough to tell if something is encrypted.  Assuming a total non-coding DNA size of roughly 750MBytes of data, an entropy test on the message would quickly tell you if it is encrypted.
 
-Maybe our friends in various three-letter agencies around the world can answer these questions if it is encrypted. Alternatively, [[we could ask one of the senders nicely for a key.](https://web.archive.org/web/20220210122231if_/https://imgs.xkcd.com/comics/security.png)]
+Maybe our friends in various three-letter agencies around the world can answer these questions if it is encrypted. Alternatively, [we could ask one of the senders nicely for a key.](https://web.archive.org/web/20220210122231if_/https://imgs.xkcd.com/comics/security.png)
 
 Given the novelty of the message container there is a very real possibility that the message container itself could contain a methodology or programmatic way to decrypt any encrypted data.
   
@@ -463,17 +463,17 @@ If we can't understand the message or its container the following conclusions ca
 - We are not ready to understand the message (not the intended recipients)
 - The message may be meaningless, but the existence of the message is of importance
 - The message may be meaningless, but our response to it is not
-- The message may be a distraction - [[Was String Theory such a distraction](https://youtu.be/iQOibplDx-4?t=855)]
+- The message may be a distraction - [String Theory](https://youtu.be/iQOibplDx-4?t=855)
 
 
 ## FEEDBACK
 
   - Is there a feedback mechanism?
   - If there is a feedback mechanism, what is it?
-  - Is the feedback mechanism [[temporal in nature?](https://www.reddit.com/r/UFOs/comments/roxn5j/following_lues_breadcrubms_to_some_deep_physics)]
+  - Is the feedback mechanism [temporal in nature?](https://www.reddit.com/r/UFOs/comments/roxn5j/following_lues_breadcrubms_to_some_deep_physics)
   - Are the effects of the feedback mechanism known or perceptible to us?
 
-At least as an exercise of imagination, the context of [[this video](https://youtu.be/iQOibplDx-4?t=2684)] should be considered as a possible feedback mechanism; even if as far-fetched as it may seem.
+At least as an exercise of imagination, the context of [this video](https://youtu.be/iQOibplDx-4?t=2684) should be considered as a possible feedback mechanism; even if as far-fetched as it may seem.
 
 If you analyze the information flow directions and feedback in models like this, you gain a deeper understanding of the phenomenon and diminish any possible control and manipulation mechanisms if they exist.
 
@@ -487,7 +487,7 @@ This section is going to walk through the process of discovery more than the oth
 
 A statistical analysis could be run on the data, but having no real experience with genetics or bioinformatics, would have resulted in months to learn what was normal and what was not.  Additionally, in that process any perceptive cognitive noise floor would have been risen and the message probably would have fallen below that noise floor.
 
-Waiting for bouts of inspiration, one scene from a movie kept nagging.  In the [[1997 Jodie Foster movie "Contact"](https://www.imdb.com/title/tt0118884/)], SETI received a message from deep space.  The scientist working on it could construct various pieces of a message, but couldn't figure out how to put them all together to decipher them. An old rich man, Hadden, that is somehow involved with the whole thing invited Jodie Foster's character to meet with him. In [[the scene](https://youtu.be/-SbKE_U4b7U?t=135)] he tells Jodie Foster's character that he found the primer used to reconstruct the messages that were eventually used to build a transportation device. 
+Waiting for bouts of inspiration, one scene from a movie kept nagging.  In the [1997 Jodie Foster movie "Contact"](https://www.imdb.com/title/tt0118884/), SETI received a message from deep space.  The scientist working on it could construct various pieces of a message, but couldn't figure out how to put them all together to decipher them. An old rich man, Hadden, that is somehow involved with the whole thing invited Jodie Foster's character to meet with him. In [the scene](https://youtu.be/-SbKE_U4b7U?t=135) he tells Jodie Foster's character that he found the primer used to reconstruct the messages that were eventually used to build a transportation device. 
 
 In that scene Hadden says "They do, If you think like a Vegan.  An alien intelligence is going to be more advanced and that means efficiency functioning on multiple levels and in multiple dimensions."  That scene has always bothered me because what they showed in stacking the sheets in 3-D to form cubes is exactly what any scientist, data analyst, engineer, or ten year old child would have done in the first 30 seconds. 
 
@@ -515,7 +515,7 @@ From the very first sequence examined it was obvious that something interesting 
 
 This examination lasted a whole of three or four hours because it was determined that what was being looked at was most likely just chance.  By chance some of the edges of these cubes were aligning with one another.  Given that only four bases, 8-bits of information, were being examined, there as a very good probability that any neighboring cube are going to have an edge that matches one or more edges if rotations, mirrors, and compliments of the bases were to take place.  Instead of a 1/256 possibility of matching an edge in a neighboring cube, it worked out that there is almost a probability of 1 that a neighboring edge of a cube will match. As it turns out, nothing interesting was going on.
 
-When the messiness of biology is taken into account, the chance that any cube would retain its neighboring cube after millions or billions of replications would be pretty slim if there isn't evolutionary pressure to do so.  Whole-faces would have to match to ensure that wherever in a genome a sequence had migrated to, it could be paired with its partner without any ambiguity.  Furthermore, a whole-face of 2^32 possibilities wouldn't be enough given the [[birthday problem](https://en.wikipedia.org/wiki/Birthday_problem)]; there would have to be an additional level of reference to make each cube adjacency unique; especially so it cubes were to be found in other genomes.
+When the messiness of biology is taken into account, the chance that any cube would retain its neighboring cube after millions or billions of replications would be pretty slim if there isn't evolutionary pressure to do so.  Whole-faces would have to match to ensure that wherever in a genome a sequence had migrated to, it could be paired with its partner without any ambiguity.  Furthermore, a whole-face of 2^32 possibilities wouldn't be enough given the [birthday problem](https://en.wikipedia.org/wiki/Birthday_problem); there would have to be an additional level of reference to make each cube adjacency unique; especially so it cubes were to be found in other genomes.
 
 At this point it was troubling that we have six faces and using a total of 96 unique bases to construct these cubes and the center of the cubes remained empty; they were hollow.  This meant one of three things
  1) All message data would have to reside on the face of the cube
@@ -616,38 +616,38 @@ PREFERENCE FOR 4x4x4 ONESSELF CUBES:
 - Slice 1 and 2 concurrent rotations are not shown because they would also result in a ONESSELF cube
 
    Order       Rotation     Found
-[0, 1, 2, 3] [0, 0, 0, 0] - 151
-[0, 1, 3, 2] [0, 0, 0, 0] - 2
-[0, 2, 1, 3] [0, 0, 0, 0] - 149
-[0, 2, 3, 1] [0, 0, 0, 0] - 4
-[0, 3, 1, 2] [0, 0, 0, 0] - 2
-[0, 3, 2, 1] [0, 0, 0, 0] - 4
-[1, 0, 2, 3] [0, 0, 0, 0] - 2
-[1, 0, 3, 2] [0, 0, 0, 0] - 154
-[1, 2, 0, 3] [0, 0, 0, 0] - 2
-[1, 3, 0, 2] [0, 0, 0, 0] - 154
-[2, 0, 1, 3] [0, 0, 0, 0] - 2
-[2, 1, 0, 3] [0, 0, 0, 0] - 1
+\[0, 1, 2, 3] \[0, 0, 0, 0] - 151
+\[0, 1, 3, 2] \[0, 0, 0, 0] - 2
+\[0, 2, 1, 3] \[0, 0, 0, 0] - 149
+\[0, 2, 3, 1] \[0, 0, 0, 0] - 4
+\[0, 3, 1, 2] \[0, 0, 0, 0] - 2
+\[0, 3, 2, 1] \[0, 0, 0, 0] - 4
+\[1, 0, 2, 3] \[0, 0, 0, 0] - 2
+\[1, 0, 3, 2] \[0, 0, 0, 0] - 154
+\[1, 2, 0, 3] \[0, 0, 0, 0] - 2
+\[1, 3, 0, 2] \[0, 0, 0, 0] - 154
+\[2, 0, 1, 3] \[0, 0, 0, 0] - 2
+\[2, 1, 0, 3] \[0, 0, 0, 0] - 1
 
 Of further interest are ONESSELF cubes which have at least four different slice orderings or rotation patterns that result in a ONESSELF cube.  These are deemed SUPERCUBES.  Do they have any significance beyond a mathematical curiosity?
 
 AGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCT
  FORMAT ORDER     ROTATION
- 8x8 [0, 1, 2, 3] [0, 0, 0, 0]
- 8x8 [0, 2, 1, 3] [0, 0, 0, 0]
- 8x8 [1, 0, 3, 2] [0, 0, 0, 0]
- 8x8 [1, 3, 0, 2] [0, 0, 0, 0]
+ 8x8 \[0, 1, 2, 3] \[0, 0, 0, 0]
+ 8x8 \[0, 2, 1, 3] \[0, 0, 0, 0]
+ 8x8 \[1, 0, 3, 2] \[0, 0, 0, 0]
+ 8x8 \[1, 3, 0, 2] \[0, 0, 0, 0]
 
 CATGTATAAATCGATTTATACATGTATAAATCGATTTATACATGTATAAATCGATTTATACATG
- 4x4x4 [0, 1, 2, 3] [0, 0, 0, 0]
- 4x4x4 [0, 2, 1, 3] [0, 0, 0, 0]
- 4x4x4 [1, 0, 3, 2] [0, 0, 0, 0]
- 4x4x4 [1, 3, 0, 2] [0, 0, 0, 0]
+ 4x4x4 \[0, 1, 2, 3] \[0, 0, 0, 0]
+ 4x4x4 \[0, 2, 1, 3] \[0, 0, 0, 0]
+ 4x4x4 \[1, 0, 3, 2] \[0, 0, 0, 0]
+ 4x4x4 \[1, 3, 0, 2] \[0, 0, 0, 0]
 
 
 Once multiple ONESSELF cubes were found it was a matter of finding faces of other cubes that matched the rotate-mirror-compliment pattern.  Finding sequences that match that pattern were quite fruitful.  However, some of the faces matched hundreds to thousands of times; as one would expect with the Birthday Problem.  Quite interestingly many of the cubes that had the matching pattern had one set of face pairs that match the ONESELF pattern.
 
-If you recall the image of the [[Torus Interconnects](https://en.wikipedia.org/wiki/Torus_interconnect)], these face pairs would extend in a network along one direction.  Could these multiple copies of the same face pairs as a ONESSELF cube be the framework that extend from an origin of a ONESSELF cube?  Could then the reset of the Torus Interconnect network be filled in?
+If you recall the image of the [Torus Interconnects](https://en.wikipedia.org/wiki/Torus_interconnect), these face pairs would extend in a network along one direction.  Could these multiple copies of the same face pairs as a ONESSELF cube be the framework that extend from an origin of a ONESSELF cube?  Could then the reset of the Torus Interconnect network be filled in?
 
 Unfortunately, of the searches completed on the sets of ONESSELF cubes discovered, three matching "framework" directions could not be found for a given ONESSELF cube.  The searches only included a small subset of possible ONESSELF cube orientations and slice information compared to a small subset of orientation and slice information for the matching "framework" cubes.  This area of research could use the benefit of organization-level computing power.
 
