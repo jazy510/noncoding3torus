@@ -140,14 +140,14 @@ A [Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) is a one-dimen
 
 The Mobius strip is a VERY important shape in the study of physics.  It is directly related to the physics object of [spinors](https://en.wikipedia.org/wiki/Spinor).  Spinors, in various configurations, pairs, rotations, and transformation can be used to describe various particles and fields in the study of physics.
 
-Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [Torus](https://en.wikipedia.org/wiki/Torus).  [The example directly from the Wikipedia page is actually a very ineresting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)  This particular torus creates a double-cover sphere, which has very deep ties to the [Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics)).  
+Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [Torus](https://en.wikipedia.org/wiki/Torus).  [The example directly from the Wikipedia page is actually a very interesting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)  This particular torus creates a double-cover sphere, which has very deep ties to the [Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics)).  
 
 If you start with a two-dimensional square and sweep out a 3-volume, you would end up with a square 2-Torus.
 
 Please visit [this Wolfram demonstration project](https://demonstrations.wolfram.com/MoebiusStripAsAHalfTwistedSquareTorus/) to follow along to understand the shapes we will be discussing through this section.
 
 Combining the idea of a square sweeping out three dimensions, and adding Mobius twist you get [this object.](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png) This is a square 2-Torus with a Mobius Twist.
-[![this object.](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png)}
+[![](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png)]
 
 
 
