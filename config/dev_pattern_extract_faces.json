@@ -1,0 +1,17 @@
+{
+"infile":"datafiles/human.big.flat",
+"outfile":"results/pattern_extract_8x8_16.json",
+"sequence_file":"keep/8x8_onesself_16.seq",
+"slice_format":"8x8",
+"slice_order":"0,1,2,3",
+"slice_rotations":"0,0,0,0",
+"t_slice_format":"8x8",
+"t_slice_order":"0,1,2,3",
+"t_slice_rotations":"0,0,0,0",
+"match_facenums":"0,1,2,3,4,5",
+"min_cube_entropy":"1.75",
+"min_face_entropy":"1.25",
+"start_offset":"0",
+"core_counts":"3",
+"server_number":"0"
+}
