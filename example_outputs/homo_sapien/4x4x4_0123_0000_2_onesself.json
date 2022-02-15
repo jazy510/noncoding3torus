@@ -1,0 +1,2743 @@
+{
+    "GGAAATACATATGTATTTCCCGGGAAATACATATGTATTTCCCGGGAAATACATATGTATTTCC": [
+        {
+            "offset": 37645591,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 37645613,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGTATTTCCCGGGAAATACATATGTATTTCCCGGGAAATACATATGTATTTCCCGGGAAATACA": [
+        {
+            "offset": 37645602,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GCCAACAAATATTTGTTGGCATGCCAACAAATATTTGTTGGCATGCCAACAAATATTTGTTGGC": [
+        {
+            "offset": 73895469,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 73895491,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTTGTTGGCATGCCAACAAATATTTGTTGGCATGCCAACAAATATTTGTTGGCATGCCAACAAA": [
+        {
+            "offset": 73895480,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGCTTTGGGATGCATCCCAAAGCTTTGGGATGCATCCCAAAGCTTTGGGATGCATCCCAAAGCT": [
+        {
+            "offset": 94863772,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTCATTTTAAAATGAGCAGTACTGCTCATTTTAAAATGAGCAGTACTGCTCATTTTAAAATGAG": [
+        {
+            "offset": 125535134,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 125535158,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGAGCAGTACTGCTCATTTTAAAATGAGCAGTACTGCTCATTTTAAAATGAGCAGTACTGCTCA": [
+        {
+            "offset": 125535146,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GAGTGTTCAATAAATATTTATTGAACACTCACGTGAGTGTTCAATAAATATTTATTGAACACTC": [
+        {
+            "offset": 272899132,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CATGTATAAATCGATTTATACATGTATAAATCGATTTATACATGTATAAATCGATTTATACATG": [
+        {
+            "offset": 331392071,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GATTACATATCTTGGCTATTGTGAATAGTTGCGCAACTATTCACAATAGCCAAGATATGTAATC": [
+        {
+            "offset": 375457037,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTTTATAAGCAGCATTTCTGATTATTTTCTAGCTAGAAAATAATCAGAAATGCTGCTTATAAAA": [
+        {
+            "offset": 467455683,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GAAACTGGATCCCTTCCTTACACCTTATAATTAATTATAAGGTGTAAGGAAGGGATCCAGTTTC": [
+        {
+            "offset": 756034780,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATGCGCTGCAGCGCATATATATATATGCGCTGCAGCGCATATATATATATGCGCTGCAGCGCAT": [
+        {
+            "offset": 830948036,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AATGCACATGTGCATTATATATATAATGCACATGTGCATTATATATATAATGCACATGTGCATT": [
+        {
+            "offset": 846393010,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 846393111,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATACTGTATCGATACAGTATCGATACTGTATCGATACTGTATCGATACTGTATCGATACAGTAT": [
+        {
+            "offset": 863564266,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATACAGTATCGATACTGTATCGATACTGTATCGATACTGTATCGATACAGTATCGATACTGTAT": [
+        {
+            "offset": 863564277,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATATGACATACTTGTCATTTTTAAAAGGGAATTCCCTTTTAAAAATGACAAGTATGTCATATA": [
+        {
+            "offset": 874060996,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GAGAAGAAAATTTTCTTCTCTAGAGAAGAAAATTTTCTTCTCTAGAGAAGAAAATTTTCTTCTC": [
+        {
+            "offset": 874421990,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 874422012,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTTCTTCTCTAGAGAAGAAAATTTTCTTCTCTAGAGAAGAAAATTTTCTTCTCTAGAGAAGAAA": [
+        {
+            "offset": 874422001,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CAGTGGGTATATACCCACTGTACAGTGGGTATATACCCACTGTACAGTGGGTATATACCCACTG": [
+        {
+            "offset": 904934620,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 904934642,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4600107848,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4600107870,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TACCCACTGTACAGTGGGTATATACCCACTGTACAGTGGGTATATACCCACTGTACAGTGGGTA": [
+        {
+            "offset": 904934631,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4600107859,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATATTTGGAGAGCTCTCCAAATATTTGGAGAGCTCTCCAAATATTTGGAGAGCTCTCCAAATAT": [
+        {
+            "offset": 975558882,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGCAATTACTTTTGCACCAACCTAATAGATTATAATCTATTAGGTTGGTGCAAAAGTAATTGCA": [
+        {
+            "offset": 1043016089,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GGTTAAATAACTTGCCCAATGTCACACAGCAGCTGCTGTGTGACATTGGGCAAGTTATTTAACC": [
+        {
+            "offset": 1076379440,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTTTTTAAAAAACCTGAAGCTTCAGGTTTTTTAAAAAACCTGAAGCTTCAGGTTTTTTAAAAAA": [
+        {
+            "offset": 1194205515,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1194205541,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTGAAGCTTCAGGTTTTTTAAAAAACCTGAAGCTTCAGGTTTTTTAAAAAACCTGAAGCTTCAG": [
+        {
+            "offset": 1194205528,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCTTTGATGATGGTGATGTACAGATGGGTTCTAGAACCCATCTGTACATCACCATCATCAAAGA": [
+        {
+            "offset": 1454071762,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ACACACACACGTATATATTTTTTAAGTACAGATCTGTACTTAAAAAATATATACGTGTGTGTGT": [
+        {
+            "offset": 1493067923,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CAAATTTGGACAAATATATATATTTGTCCAAATTTGGACAAATATATATATTTGTCCAAATTTG": [
+        {
+            "offset": 1502316379,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CAGACTAGTCTGTAATTTTAAAATTACAGACTAGTCTGTAATTTTAAAATTACAGACTAGTCTG": [
+        {
+            "offset": 1508545803,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GTAACTAGTTACATATATGCATATATGTAACTAGTTACATATATGCATATATGTAACTAGTTAC": [
+        {
+            "offset": 1536727906,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTAGAAAATTGTACAATTTTCTAGAAAATTGTACAATTTTCTAGAAAATTGTACAATTTTCTAG": [
+        {
+            "offset": 1598569684,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ACAGGGGTGTACACCCCTGTGCACAGGGGTGTACACCCCTGTGCACAGGGGTGTACACCCCTGT": [
+        {
+            "offset": 1744342026,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1744342048,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAGAAAATATTTTCTACTCGCGAGTAGAAAATATTTTCTACTCGCGAGTAGAAAATATTTTCTA": [
+        {
+            "offset": 1774545499,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1774545523,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCTACTCGCGAGTAGAAAATATTTTCTACTCGCGAGTAGAAAATATTTTCTACTCGCGAGTAGA": [
+        {
+            "offset": 1774545511,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATATTCCATACATACACATACATGGAATATATATATTCCATGTATGTGTATGTATGGAATATA": [
+        {
+            "offset": 1777012612,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1777012972,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GAGAATTGGTACCAATTCTCTAGAGAATTGGTACCAATTCTCTAGAGAATTGGTACCAATTCTC": [
+        {
+            "offset": 1801553423,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1801553445,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CCAATTCTCTAGAGAATTGGTACCAATTCTCTAGAGAATTGGTACCAATTCTCTAGAGAATTGG": [
+        {
+            "offset": 1801553434,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ACAAGTGCACACCACCACCCCTGGCTAATTCTAGAATTAGCCAGGGGTGGTGGTGTGCACTTGT": [
+        {
+            "offset": 1855236074,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATACGTATATACCTATAATACGTATATACGTATACGTATATACGTATTATAGGTATATACGTAT": [
+        {
+            "offset": 1881560242,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 1881560552,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CAAAAACCGCAATTACTTTTGCAACAACCTAATTAGGTTGTTGCAAAAGTAATTGCGGTTTTTG": [
+        {
+            "offset": 1902676496,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCT": [
+        {
+            "offset": 1947887854,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3150783905,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GTCTGGTGAGTGTGTGTGTGTGTACACATATATATATATGTACACACACACACACTCACCAGAC": [
+        {
+            "offset": 1951002674,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTGCATCTATTAAAAAAAAAAAGACATTGTAATTACAATGTCTTTTTTTTTTTAATAGATGCAG": [
+        {
+            "offset": 2062076711,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTTATTTTAAAATAAGGCTCGAGCCTTATTTTAAAATAAGGCTCGAGCCTTATTTTAAAATAAG": [
+        {
+            "offset": 2144514568,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2144514592,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAAGGCTCGAGCCTTATTTTAAAATAAGGCTCGAGCCTTATTTTAAAATAAGGCTCGAGCCTTA": [
+        {
+            "offset": 2144514580,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTGGTGTATATATACACCAGATCTGGTGTATATATACACCAGATCTGGTGTATATATACACCAG": [
+        {
+            "offset": 2149165283,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2149165305,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATACACCAGATCTGGTGTATATATACACCAGATCTGGTGTATATATACACCAGATCTGGTGTAT": [
+        {
+            "offset": 2149165294,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GGATATATATATATCCCAGATCTGGGATATATATATATCCCAGATCTGGGATATATATATATCC": [
+        {
+            "offset": 2208196865,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2208196889,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATCCCAGATCTGGGATATATATATATCCCAGATCTGGGATATATATATATCCCAGATCTGGGAT": [
+        {
+            "offset": 2208196877,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATGTTCTAAATATGCTGAAGTAAGAAATTTGCAAATTTCTTACTTCAGCATATTTAGAACATA": [
+        {
+            "offset": 2215335520,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGGCTATTGTGAATAATGCTGCAGTGAATGTATACATTCACTGCAGCATTATTCACAATAGCCA": [
+        {
+            "offset": 2225262411,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTTTTTAAAAAGCATAGTATACTATGCTTTTTAAAAAGCATAGTATACTATGCTTTTTAAAAAG": [
+        {
+            "offset": 2280045210,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2280045236,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATAGTATACTATGCTTTTTAAAAAGCATAGTATACTATGCTTTTTAAAAAGCATAGTATACTAT": [
+        {
+            "offset": 2280045223,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CCTGATATCAGGTATATATATATATACCTGATATCAGGTATATATATATATACCTGATATCAGG": [
+        {
+            "offset": 2341684498,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CATGTATGATATCATACATGTACATGTATGATATCATACATGTACATGTATGATATCATACATG": [
+        {
+            "offset": 2401926350,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ACAGTATCATATATGATACTGTAATGGTGAATATTCACCATTACAGTATCATATATGATACTGT": [
+        {
+            "offset": 2420471693,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CATGTGTTATATGTTATATAACATATAACACATGTGTTATATGTTATATAACATATAACACATG": [
+        {
+            "offset": 2426859972,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CGTTAATTAATTAATTAACGCGCGTTAATTAATTAATTAACGCGCGTTAATTAATTAATTAACG": [
+        {
+            "offset": 2436619192,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2436619214,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAATTAACGCGCGTTAATTAATTAATTAACGCGCGTTAATTAATTAATTAACGCGCGTTAATTA": [
+        {
+            "offset": 2436619203,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TACTTTTACTTTTGCACCAACCTAATACATGATCATGTATTAGGTTGGTGCAAAAGTAAAAGTA": [
+        {
+            "offset": 2438870714,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4626734157,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAAATAGGACAAAAGCAATATTTGAAGAAAGGCCTTTCTTCAAATATTGCTTTTGTCCTATTTA": [
+        {
+            "offset": 2497317142,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGAAGTCTAGAGGTAAGAAGTTAATAACGGACGTCCGTTATTAACTTCTTACCTCTAGACTTCT": [
+        {
+            "offset": 2597321700,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGGCTACTAAAGATTGATTAGGAGCCACATTTAAATGTGGCTCCTAATCAATCTTTAGTAGCCT": [
+        {
+            "offset": 2662794820,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTGGCCAAAGCAAGTCTCGAGACTTGCTTTGGCCAAAGCAAGTCTCGAGACTTGCTTTGGCCAA": [
+        {
+            "offset": 2681565877,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2681565905,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4540399162,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4540399190,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCTCGAGACTTGCTTTGGCCAAAGCAAGTCTCGAGACTTGCTTTGGCCAAAGCAAGTCTCGAGA": [
+        {
+            "offset": 2681565891,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4540399176,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCCCTAATCATTATGTGTAATTACAATTACATATGTAATTGTAATTACACATAATGATTAGGGA": [
+        {
+            "offset": 2694934133,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 2694934253,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATAATTTTCCCGGGAAAATTATAATTTTCCCGGGAAAATTATAATTTTCCCGGGAAAATTATA": [
+        {
+            "offset": 2749712294,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GTACCAGCTTGGCCAAGCTGGTACCAGCTTGGCCAAGCTGGTACCAGCTTGGCCAAGCTGGTAC": [
+        {
+            "offset": 2837768824,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GGCCAAGCTGGTACCAGCTTGGCCAAGCTGGTACCAGCTTGGCCAAGCTGGTACCAGCTTGGCC": [
+        {
+            "offset": 2837768834,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATATGATACTATATTTTCTCCTTTCTTGGCATGCCAAGAAAGGAGAAAATATAGTATCATATA": [
+        {
+            "offset": 2929981390,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTTTAAGAAGCTCAGCAAAATAAATACATCTATAGATGTATTTATTTTGCTGAGCTTCTTAAAG": [
+        {
+            "offset": 3006374196,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGTGCACAATGTGCAGGTTAGTTACATATGTATACATATGTAACTAACCTGCACATTGTGCACA": [
+        {
+            "offset": 3092545828,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3092546055,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4633526784,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4633527011,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CGTATGCTAAAGACTGAGAGCAATATAAAAGGCCTTTTATATTGCTCTCAGTCTTTAGCATACG": [
+        {
+            "offset": 3102326106,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GAAGTAACTCAGGAATGGAAAACCAAATGTCCGGACATTTGGTTTTCCATTCCTGAGTTACTTC": [
+        {
+            "offset": 3120045672,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GGAATGCATGCATGCATTCCCGGGAATGCATGCATGCATTCCCGGGAATGCATGCATGCATTCC": [
+        {
+            "offset": 3172139842,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3172139864,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATGCATTCCCGGGAATGCATGCATGCATTCCCGGGAATGCATGCATGCATTCCCGGGAATGCAT": [
+        {
+            "offset": 3172139853,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGACTTAAGTCAGAATATATATATTCTGACTTAAGTCAGAATATATATATTCTGACTTAAGTCA": [
+        {
+            "offset": 3188339602,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAGGTATACCTACTATATATATATAGTAGGTATACCTACTATATATATATAGTAGGTATACCTA": [
+        {
+            "offset": 3197112244,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTAATACTGAGTCTCTGACTAATGAAGAGATATATCTCTTCATTAGTCAGAGACTCAGTATTAA": [
+        {
+            "offset": 3201621794,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GGGAAATGAGAGACAACAAATGCAAAAAAGAATTCTTTTTTGCATTTGTTGTCTCTCATTTCCC": [
+        {
+            "offset": 3298559947,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATGAATATATATTCATGTAGCTACATGAATATATATTCATGTAGCTACATGAATATATATTCAT": [
+        {
+            "offset": 3411694810,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3411694834,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4556246377,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4556246401,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4684433026,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4684433050,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCATGTAGCTACATGAATATATATTCATGTAGCTACATGAATATATATTCATGTAGCTACATGA": [
+        {
+            "offset": 3411694822,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4556246389,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4684433038,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTAGAAATGGAATTCCATTTCTAGAAATGGAATTCCATTTCTAGAAATGGAATTCCATTTCTAG": [
+        {
+            "offset": 3456419145,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATATTTGGGAATATTCCCAAATATTTGGGAATATTCCCAAATATTTGGGAATATTCCCAAATAT": [
+        {
+            "offset": 3476137516,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CATGATCTCATTCCTTTTTATGGCTGCAAACATGTTTGCAGCCATAAAAAGGAATGAGATCATG": [
+        {
+            "offset": 3558256208,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AATCTAATTGTGGTTTAATTTTCAAAATTGCCGGCAATTTTGAAAATTAAACCACAATTAGATT": [
+        {
+            "offset": 3679275019,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGCTCAGGTGACGTCACCTGAGCTCAGGTGACGTCACCTGAGCTCAGGTGACGTCACCTGAGCT": [
+        {
+            "offset": 3713830059,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CCTGAATATATATATTCAGGGCCCTGAATATATATATTCAGGGCCCTGAATATATATATTCAGG": [
+        {
+            "offset": 3756132942,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3756132964,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4658725990,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4658726012,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATATTCAGGGCCCTGAATATATATATTCAGGGCCCTGAATATATATATTCAGGGCCCTGAATAT": [
+        {
+            "offset": 3756132953,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4658726001,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "AGTGAGGCACACCTGTAGTCCCAGTCACTCAGCTGAGTGACTGGGACTACAGGTGTGCCTCACT": [
+        {
+            "offset": 3815658630,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTGCTTCAGCCTCCCAAGTAGCTGGGATGGCATGCCATCCCAGCTACTTGGGAGGCTGAAGCAG": [
+        {
+            "offset": 3868785525,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TGCTCTGTCGCCCGGGCTGGTGTGCAGTAGCATGCTACTGCACACCAGCCCGGGCGACAGAGCA": [
+        {
+            "offset": 3906554953,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3906584477,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "GCTGGGTATATATACCCAGCATGCTGGGTATATATACCCAGCATGCTGGGTATATATACCCAGC": [
+        {
+            "offset": 3978272712,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 3978272734,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ATACCCAGCATGCTGGGTATATATACCCAGCATGCTGGGTATATATACCCAGCATGCTGGGTAT": [
+        {
+            "offset": 3978272723,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "ACGAAATCCTCCAAGCTGGCCTAATACCCAATATTGGGTATTAGGCCAGCTTGGAGGATTTCGT": [
+        {
+            "offset": 4030453742,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TACATATCCTAGGATATGTATATACATATCCTAGGATATGTATATACATATCCTAGGATATGTA": [
+        {
+            "offset": 4057994131,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATTTTTTAAAGGGGGAAAGAAAAAAGGTAAGCTTACCTTTTTTCTTTCCCCCTTTAAAAAATA": [
+        {
+            "offset": 4062304313,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CTGTAATTATATAATTACAGGCCTGTAATTATATAATTACAGGCCTGTAATTATATAATTACAG": [
+        {
+            "offset": 4198156951,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "offset": 4198156973,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TAATTACAGGCCTGTAATTATATAATTACAGGCCTGTAATTATATAATTACAGGCCTGTAATTA": [
+        {
+            "offset": 4198156962,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TTAAGAAAAACCGGTTTTTCTTAAGAAAAACCGGTTTTTCTTAAGAAAAACCGGTTTTTCTTAA": [
+        {
+            "offset": 4226775944,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TCGAATATTTTGCAAAATATTCGAATATTTTGCAAAATATTCGAATATTTTGCAAAATATTCGA": [
+        {
+            "offset": 4286090161,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "CATGGCAACATTAATGTTGCCATGGCAACATTAATGTTGCCATGGCAACATTAATGTTGCCATG": [
+        {
+            "offset": 4398628881,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "TATATTTTGCAGCTGCAAAATATATTTTGCAGCTGCAAAATATATTTTGCAGCTGCAAAATATA": [
+        {
+            "offset": 4419706182,
+            "opposite_rotation": 2,
+            "slice_format": "4x4x4",
+            "slice_order": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "slice_rotations": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
