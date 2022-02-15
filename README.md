@@ -70,7 +70,7 @@ Before continuing, three basic topics need to be reviewed.  Those topics are DNA
 
 
 
-
+-
 -- DNA --
 
 The information in [[DNA](https://en.wikipedia.org/wiki/DNA)] is composed of four base molecules, each represented here by a single letter: A, T, C, G.  These letters are called bases or base pairs.  
