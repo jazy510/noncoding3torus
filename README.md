@@ -154,8 +154,6 @@ Combining the idea of a square sweeping out three dimensions, and adding Mobius 
 
 ![](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png)
 
-
-
 Very interesting things start to happen when you sweep out a 3-Dimensional Torus. To understand the shape we will progress step-by-step. First start with a Cube. Take one face of the cube and sweep out the cube in three dimensions, giving it a 1/2 Mobius twist.  
 Sticking to the X-direction you get [this.](https://web.archive.org/web/20220213201249if_/https://i.imgur.com/UUSOszg.png)
 
@@ -203,7 +201,7 @@ Not being a mathematical topologist, one could only guess that a ONESSELF cube i
 
 Finally, we have to touch on [Torus Interconnects.](https://en.wikipedia.org/wiki/Torus_interconnect) If one were to [extend each cube face to its neighbors](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png) so that it is a fully-connected network you would have a Torus Interconnect.  The image shows that each node in the network is a ONESSELF cube, but that not may be the case.  As long as each face is connected to its neighbor and the "END" cubes connect to one-another, it is a fully-connected Torus interconnect/network.  Each cube could also have a 1/2 Mobius twist to its neighbors and still retain the torus interconnect structure.  IBM's Blue Gene supercomputers use such multi-dimensional torus interconnects; and are quite coincidentally named! 
 
-![](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)
+![](https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)
 
 
 
@@ -258,7 +256,6 @@ Very little information has been provided about the senders of any messages in t
 - They have advanced knowledge of the molecular machinery needed to correct any coding errors 
 - They have classical computing devices at least as powerful as we do.
 - They MAY have advanced knowledge of physics, quantum mechanics, quantum computing, and the geometric nature of reality 
-
 
 
 This is just one instance of interaction with the senders of possible message.  The more interaction with us that they have, the more information we can glean.  Of the thousands or millions of interactions they have had with our species, each one can draw boundary lines and outliers of their capabilities, thought processes, and codes of morality.  I have a VERY hard time believing anyone who has studied this phenomenon deeply for decades when they say they don't know anything about the senders, nor that we can't understand their thought processes, intentions, level of technology, types of technology, nor moral standards.
@@ -676,6 +673,8 @@ CATGTATAAATCGATTTATACATGTATAAATCGATTTATACATGTATAAATCGATTTATACATG
 Once multiple ONESSELF cubes were found it was a matter of finding faces of other cubes that matched the rotate-mirror-compliment pattern.  Finding sequences that match that pattern were quite fruitful.  However, some of the faces matched hundreds to thousands of times; as one would expect with the Birthday Problem.  Quite interestingly many of the cubes that had the matching pattern had one set of face pairs that match the ONESELF pattern.
 
 If you recall the image of the [Torus Interconnects](https://en.wikipedia.org/wiki/Torus_interconnect), these face pairs would extend in a network along one direction.  Could these multiple copies of the same face pairs as a ONESSELF cube be the framework that extend from an origin of a ONESSELF cube?  Could then the reset of the Torus Interconnect network be filled in?
+
+![](https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)
 
 Unfortunately, of the searches completed on the sets of ONESSELF cubes discovered, three matching "framework" directions could not be found for a given ONESSELF cube.  The searches only included a small subset of possible ONESSELF cube orientations and slice information compared to a small subset of orientation and slice information for the matching "framework" cubes.  This area of research could use the benefit of organization-level computing power.
 
