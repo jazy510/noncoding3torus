@@ -147,6 +147,7 @@ If you start with a two-dimensional square and sweep out a 3-volume, you would e
 Please visit [this Wolfram demonstration project](https://demonstrations.wolfram.com/MoebiusStripAsAHalfTwistedSquareTorus/) to follow along to understand the shapes we will be discussing through this section.
 
 Combining the idea of a square sweeping out three dimensions, and adding Mobius twist you get [this object.](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png) This is a square 2-Torus with a Mobius Twist.
+
 [![](https://web.archive.org/web/20220213201307if_/https://i.imgur.com/iHt2fdX.png)]
 
 
