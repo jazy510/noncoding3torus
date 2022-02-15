@@ -71,6 +71,8 @@ At this point, doing everything possible to avoid flights of fancy and hours of 
 Before continuing, three basic topics need to be reviewed.  Those topics are DNA basics, DNA Information Theory Basics, and Torus and Mobius Twist Basics.
 
 
+
+
 -- DNA --
 
 The information in [[DNA](https://en.wikipedia.org/wiki/DNA)] is composed of four base molecules, each represented here by a single letter: A, T, C, G.  These letters are called bases or base pairs.  
@@ -91,9 +93,9 @@ The remaining 99 PERCENT of the three billion bases constitute something called 
 
 Still, roughly and conservatively, 80 PERCENT of the Human genome is found to have no function whatsoever.  I has been assumed that the "Junk DNA" is residual from virus DNA, bacterial DNA, and mutations that have found there way into our genome via various means and propagated indefinitely.  This means that about 2.4 Billion bases have no known function.
 
-=
+
+
 -- DNA INFORMATION THEORY --
-=
 
 DNA can be viewed as a digital storage mechanism; and [[has been used as such](https://en.wikipedia.org/wiki/DNA_digital_data_storage)].  It is a like a Hard Drive that is stored in every one of your cells.
 
@@ -122,7 +124,9 @@ The cryptographic hashes of the above file are:
   sha1sum 19025e1902ff6c3657e9c846bc141ed323d2a199
   sha256sum 4ef2a29c6425b2b99086aac23d70194704ec67b3ade730d40d96a831e9740777
 
+
 -- INFORMATION THEORY --
+
 "Randomness" is a very hard thing to measure.  "Randomness" is generally a measure of multiple different measurements.  There is no binary yes or no answer to the question "Is It Random?".  One such measure is that of Entropy.
 
 [[Entropy](https://en.wikipedia.org/wiki/Entropy)].  Entropy can be summarized as the measure of statistical disorder.  A repeating sequence of 'ATGC' 100 times will have high entropy if the whole corpus of available values is only A,T,G, and C; but it will not have high randomness.  Entropy is easy to calculate and not too computationally expensive, so it is used as our basic measure to determine uniqueness through the analysis.  As an example, the sequence 'AAAAAAAAAAA' will have ZERO entropy; but 'AAAAAAABBBBBBB' will have an entropy of 1.  In our analysis, since we are working strictly with 'ATGC', the maximum entropy we can have is 2.  If multiple letters were combined in binary form and assigned their own symbol the entropy measurement could go much higher.
@@ -306,7 +310,6 @@ Species endangerment or extinction poses a problem for message recovery, but can
 The containers may be designed in such a way that should all adjacent containers be present around a missing container, the missing message container and message pieces could be recovered.
 
 
-
 --------------------- NOISE ---------------------------
 
 Anybody who has performed lab work in [[DNA swapping](https://web.archive.org/web/20220212214131if_/https://c.tenor.com/MxraJlBpR1wAAAAC/mr-bean-sitcom.gif)] and [[replication](https://web.archive.org/web/20211011013459if_/https://c.tenor.com/6Ly_NJuJjpsAAAAC/betty-white-winking.gif)] knows that the message channels can be very noisy.  
@@ -432,7 +435,6 @@ As you can see it is very possible that we, Homo Sapiens, at this level of devel
 
 ---- RECEIVER MESSAGE INTERPRETATION AND ACTIONS ------
 
-
 - Are we able to interpret the message as the sender?
 - Are we able to interpret the message as the sender intended for us to interpret it?
 - How do we know we interpreted it as the sender intended?
@@ -471,7 +473,6 @@ If we can't understand the message or its container the following conclusions ca
 
 ---------------------- FEEDBACK -----------------------
 
-
   - Is there a feedback mechanism?
   - If there is a feedback mechanism, what is it?
   - Is the feedback mechanism [[temporal in nature?](https://www.reddit.com/r/UFOs/comments/roxn5j/following_lues_breadcrubms_to_some_deep_physics)]
@@ -484,7 +485,6 @@ If you analyze the information flow directions and feedback in models like this,
     
 
 ---- MESSAGE CONTAINERIZATION/DECONTAINERIZATION ------
-
 
 Knowing that the vast majority of DNA was "Junk DNA" and that it had no known function made it a prime candidate to begin exploration.  There was no information as to what a message would look like, how it would be distinguished between any other DNA bases, etc.  
 
@@ -678,7 +678,6 @@ In summary, there are strong statistical indications that at least hundreds of O
 --------------------------------------
 ------------ CONCLUSIONS -------------
 --------------------------------------
-
 
 There exists in multiple genomes a significant number of mathematical structures that would be considered a 3-Torus with a 1/2 Mobius twist.  The structures may map themselves into large structures called a Torus Interconnect.  These structures would have the benefit of self-ordering and self-error detecting.
 
