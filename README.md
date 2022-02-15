@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [[test](https://www.wikipedia.com)]
+[![PIC](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cooper_Kupp.jpg/800px-Cooper_Kupp.jpg)]
