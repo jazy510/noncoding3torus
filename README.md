@@ -527,12 +527,12 @@ The below sequences are just examples, not what was actually used.  They were wr
 
 Cube 0:
 
-| F0 | F1 | F2 | F3 | F4 | F5 |
-| --- | --- | --- | --- | --- |
-| aaaT |cccA |aaaa |cccc |tttt |aaaG |
-| aaaC |cccC |aaaa |cccc |tttt |aaaT |
-| aaaG |cccG |aaaa |cccc |tttt |aaaT |
-| aaaA |cccA |TGGA |cccc |tttt |aaaT |
+ F0 | F1 | F2 | F3 | F4 | F5 
+ --- | --- | --- | --- | --- 
+ aaaT |cccA |aaaa |cccc |tttt | aaaG 
+ aaaC |cccC |aaaa |cccc |tttt | aaaT 
+ aaaG |cccG |aaaa |cccc |tttt | aaaT 
+ aaaA |cccA |TGGA |cccc |tttt | aaaT 
 
 
 Cube 1:
