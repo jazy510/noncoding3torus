@@ -138,7 +138,7 @@ Interestingly, the Birthday Paradox can be used as a proof of contradiction in t
 
 A [Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) is a one-dimensional object that sweeps out [two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg) in three dimension and a 180 Degree twist is added. It is one of the most mathematically interesting objects ever conceived.  It only has one side!  If you follow your finger along the Mobius strip you will find you can return to the point from where you started without ever lifting up your finger.
 
-![two-dimensions]](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg)
+![two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg)
 
 
 The Mobius strip is a VERY important shape in the study of physics.  It is directly related to the physics object of [spinors](https://en.wikipedia.org/wiki/Spinor).  Spinors, in various configurations, pairs, rotations, and transformation can be used to describe various particles and fields in the study of physics.
