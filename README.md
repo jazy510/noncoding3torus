@@ -6,11 +6,11 @@ The nature of this mathematical structure may lead to a large-scale [[3D-Torus i
 
 
 
--------------------------------------------------------
----------------- TABLE OF CONTENTS --------------------
--------------------------------------------------------
 
-- TLDR/BLUF
+# TABLE OF CONTENTS 
+
+
+## TLDR/BLUF
 - TABLE OF CONTENTS
 - PREFACE
 - BACKGROUND AND BASICS
