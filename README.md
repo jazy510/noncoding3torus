@@ -671,34 +671,39 @@ PREFERENCE FOR 4x4x4 ONESSELF CUBES:
 - Slice 0 and 4 concurrent rotations are not shown because they would also result in a ONESSELF cube
 - Slice 1 and 2 concurrent rotations are not shown because they would also result in a ONESSELF cube
 
-   Order       Rotation     Found
-\[0, 1, 2, 3] \[0, 0, 0, 0] - 151
-\[0, 1, 3, 2] \[0, 0, 0, 0] - 2
-\[0, 2, 1, 3] \[0, 0, 0, 0] - 149
-\[0, 2, 3, 1] \[0, 0, 0, 0] - 4
-\[0, 3, 1, 2] \[0, 0, 0, 0] - 2
-\[0, 3, 2, 1] \[0, 0, 0, 0] - 4
-\[1, 0, 2, 3] \[0, 0, 0, 0] - 2
-\[1, 0, 3, 2] \[0, 0, 0, 0] - 154
-\[1, 2, 0, 3] \[0, 0, 0, 0] - 2
-\[1, 3, 0, 2] \[0, 0, 0, 0] - 154
-\[2, 0, 1, 3] \[0, 0, 0, 0] - 2
-\[2, 1, 0, 3] \[0, 0, 0, 0] - 1
+Order |Rotation |Found
+--- |--- |---   
+\[0, 1, 2, 3] |\[0, 0, 0, 0] |151
+\[0, 1, 3, 2] |\[0, 0, 0, 0] |2
+\[0, 2, 1, 3] |\[0, 0, 0, 0] |149
+\[0, 2, 3, 1] |\[0, 0, 0, 0] |4
+\[0, 3, 1, 2] |\[0, 0, 0, 0] |2
+\[0, 3, 2, 1] |\[0, 0, 0, 0] |4
+\[1, 0, 2, 3] |\[0, 0, 0, 0] |2
+\[1, 0, 3, 2] |\[0, 0, 0, 0] |154
+\[1, 2, 0, 3] |\[0, 0, 0, 0] |2
+\[1, 3, 0, 2] |\[0, 0, 0, 0] |154
+\[2, 0, 1, 3] |\[0, 0, 0, 0] |2
+\[2, 1, 0, 3] |\[0, 0, 0, 0] |1
 
 Of further interest are ONESSELF cubes which have at least four different slice orderings or rotation patterns that result in a ONESSELF cube.  These are deemed SUPERCUBES.  Do they have any significance beyond a mathematical curiosity?
 
 AGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCTATTATTTGCAAATAATAGCT
- FORMAT ORDER     ROTATION
- 8x8 \[0, 1, 2, 3] \[0, 0, 0, 0]
- 8x8 \[0, 2, 1, 3] \[0, 0, 0, 0]
- 8x8 \[1, 0, 3, 2] \[0, 0, 0, 0]
- 8x8 \[1, 3, 0, 2] \[0, 0, 0, 0]
+
+ FORMAT |ORDER |ROTATION
+ --- |--- |---
+ 8x8 |\[0, 1, 2, 3] |\[0, 0, 0, 0]
+ 8x8 |\[0, 2, 1, 3] |\[0, 0, 0, 0]
+ 8x8 |\[1, 0, 3, 2] |\[0, 0, 0, 0]
+ 8x8 |\[1, 3, 0, 2] |\[0, 0, 0, 0]
 
 CATGTATAAATCGATTTATACATGTATAAATCGATTTATACATGTATAAATCGATTTATACATG
- 4x4x4 \[0, 1, 2, 3] \[0, 0, 0, 0]
- 4x4x4 \[0, 2, 1, 3] \[0, 0, 0, 0]
- 4x4x4 \[1, 0, 3, 2] \[0, 0, 0, 0]
- 4x4x4 \[1, 3, 0, 2] \[0, 0, 0, 0]
+ FORMAT |ORDER |ROTATION
+ --- |--- |---
+ 4x4x4 |\[0, 1, 2, 3] |\[0, 0, 0, 0]
+ 4x4x4 |\[0, 2, 1, 3] |\[0, 0, 0, 0]
+ 4x4x4 |\[1, 0, 3, 2] |\[0, 0, 0, 0]
+ 4x4x4 |\[1, 3, 0, 2] |\[0, 0, 0, 0]
 
 
 Once multiple ONESSELF cubes were found it was a matter of finding faces of other cubes that matched the rotate-mirror-compliment pattern.  Finding sequences that match that pattern were quite fruitful.  However, some of the faces matched hundreds to thousands of times; as one would expect with the Birthday Problem.  Quite interestingly many of the cubes that had the matching pattern had one set of face pairs that match the ONESELF pattern.
