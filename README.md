@@ -138,9 +138,16 @@ Interestingly, the Birthday Paradox can be used as a proof of contradiction in t
 
 A [Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip) is a one-dimensional object that sweeps out [two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg) in three dimension and a 180 Degree twist is added. It is one of the most mathematically interesting objects ever conceived.  It only has one side!  If you follow your finger along the Mobius strip you will find you can return to the point from where you started without ever lifting up your finger.
 
+[![](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg)]
+
+
 The Mobius strip is a VERY important shape in the study of physics.  It is directly related to the physics object of [spinors](https://en.wikipedia.org/wiki/Spinor).  Spinors, in various configurations, pairs, rotations, and transformation can be used to describe various particles and fields in the study of physics.
 
-Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [Torus](https://en.wikipedia.org/wiki/Torus).  [The example directly from the Wikipedia page is actually a very interesting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)  This particular torus creates a double-cover sphere, which has very deep ties to the [Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics)).  
+Sweeping out a volume in three dimension using a Two-Dimensional surface creates a [Torus](https://en.wikipedia.org/wiki/Torus).  [The example directly from the Wikipedia page is actually a very interesting.](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)  
+
+[![](https://en.wikipedia.org/wiki/Torus#/media/File:Sphere-like_degenerate_torus.gif)]
+
+This particular torus creates a double-cover sphere, which has very deep ties to the [Spin of elementary particles.](https://en.wikipedia.org/wiki/Spin_(physics)).  
 
 If you start with a two-dimensional square and sweep out a 3-volume, you would end up with a square 2-Torus.
 
@@ -155,23 +162,41 @@ Combining the idea of a square sweeping out three dimensions, and adding Mobius 
 Very interesting things start to happen when you sweep out a 3-Dimensional Torus. To understand the shape we will progress step-by-step. First start with a Cube. Take one face of the cube and sweep out the cube in three dimensions, giving it a 1/2 Mobius twist.  
 Sticking to the X-direction you get [this.](https://web.archive.org/web/20220213201249if_/https://i.imgur.com/UUSOszg.png)
 
+[![](https://web.archive.org/web/20220213201249if_/https://i.imgur.com/UUSOszg.png)]
+
 Then moving to the Y-direction you get [this.](https://web.archive.org/web/20220213201236if_/https://i.imgur.com/n0DO9Ev.png)
+
+[![](https://web.archive.org/web/20220213201236if_/https://i.imgur.com/n0DO9Ev.png)]
 
 Finally the Z-direction you get [this.](https://web.archive.org/web/20220213201216if_/https://i.imgur.com/BB1oNb2.png)
 
+[![](https://web.archive.org/web/20220213201216if_/https://i.imgur.com/BB1oNb2.png)]
+
 If you superimpose the three separate toruses on top of one another you get [this shape.](https://web.archive.org/web/20220213201338if_/https://i.imgur.com/oXY0cMZ.png)
+
+[![](https://web.archive.org/web/20220213201338if_/https://i.imgur.com/oXY0cMZ.png)]
 
 However, that shape is nothing close to what it actually is despite what you may think.  Imagine you sweep out and get the square torus from the X-direction above.  Now simultaneously sweep out the Y-direction.  If you can visualize it, you would end up with something similar to a hollow donuts twisted in on itself.  However, you have yet to complete the full 3-Torus.  From that twisted hollow-donuts, extend the remaining faces to each other and twist them.  The closest image that could be found is [this.](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)  That image however does not include the 1/2 mobius twist of each face.
 
 Another example would be to use a [standard 6-sided gaming die.](https://web.archive.org/web/20220213201543if_/https://i.imgur.com/SV32jd0.jpeg)
 
+[![](https://web.archive.org/web/20220213201543if_/https://i.imgur.com/SV32jd0.jpeg)]
+
 [Connect the first set of opposing faces.](https://web.archive.org/web/20220213201528if_/https://i.imgur.com/E6JOMAM.jpeg)
+
+[![](https://web.archive.org/web/20220213201528if_/https://i.imgur.com/E6JOMAM.jpeg)]
 
 [Do it to another set of opposing faces.](https://web.archive.org/web/20220213201516if_/https://i.imgur.com/uhjXIAM.jpeg)
 
+[![](https://web.archive.org/web/20220213201516if_/https://i.imgur.com/uhjXIAM.jpeg)]
+
 [Then the third set.](https://web.archive.org/web/20220213201505if_/https://i.imgur.com/YaMD4kv.jpeg)
 
+[![](https://web.archive.org/web/20220213201505if_/https://i.imgur.com/YaMD4kv.jpeg)]
+
 [Finally, put a 180 degree twist on each face.](https://web.archive.org/web/20220213201432if_/https://i.imgur.com/kIrOQ40.jpeg)
+
+[![](https://web.archive.org/web/20220213201432if_/https://i.imgur.com/kIrOQ40.jpeg)]
 
 Rather than repeating "A Cubic Three-Torus with a 1/2 Mobius Twist" hundreds of times, these cubes are referenced as "ONESSELF" cubes; playing off of a popular quote from a famous movie; ["Know Thyself"](https://youtu.be/kl0rqoRbzzU?t=90).  To known ones-self you must find ones-self; but to find ones-self you must know ones-self.  It is not easy to find ones-self!
 
@@ -180,6 +205,8 @@ This structure cannot exist in three dimensions without intersecting with itself
 Not being a mathematical topologist, one could only guess that a ONESSELF cube is a Four-Dimensional object; but it could be 3, 4, 6, or 8 depending on how you look at it.  Is it still considered a Cubic 3-Torus with a 1/2 Mobius twist you if you remove the volume of the cube?  In that case there would be three independent two-surfaces inhabiting 2/3 of the full 3-Volume, but the twist may extend it to 6 dimensions.  What if this shape is the shape of the space the cube occupies or the cube is a construct of the nature of the space.  It gets very difficult to understand and comprehend very quickly.  The opinion of a mathematical topologist on the subject would be greatly appreciated.
 
 Finally, we have to touch on [Torus Interconnects.](https://en.wikipedia.org/wiki/Torus_interconnect) If one were to [extend each cube face to its neighbors](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png) so that it is a fully-connected network you would have a Torus Interconnect.  The image shows that each node in the network is a ONESSELF cube, but that not may be the case.  As long as each face is connected to its neighbor and the "END" cubes connect to one-another, it is a fully-connected Torus interconnect/network.  Each cube could also have a 1/2 Mobius twist to its neighbors and still retain the torus interconnect structure.  IBM's Blue Gene supercomputers use such multi-dimensional torus interconnects; and are quite coincidentally named! 
+
+[![](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)]
 
 
 
