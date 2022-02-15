@@ -536,16 +536,12 @@ Cube 0:
 
 
 Cube 1:
-
- F0   F1   F2   F3   F4   F5
- 
-aaaa cccc aaaA cccc tttt aaaa  
-
-aaaa cccc aaaC cccc tttt aaaa
-
-aaaa cccc aaaC cccc tttt aaaa
-
-AGCT cccc aaaT TGCT AAAC aaaa
+F0 | F1 | F2 | F3 | F4 | F5 
+--- | --- | --- | --- | --- | ---
+aaaa |cccc |aaaA |cccc |tttt |aaaa  
+aaaa |cccc |aaaC |cccc |tttt |aaaa
+aaaa |cccc |aaaC |cccc |tttt |aaaa
+AGCT |cccc |aaaT |TGCT |AAAC |aaaa
 
 
 From the very first sequence examined it was obvious that something interesting was going on.  Notice how if Cube 0-F0 is rotated 90 degrees clockwise it matches with Cube 1-F0.  If Cube 0-F1 is rotated 90 degrees clockwise it matches Cube 1-F3 when complimented.  IF Cube 0-F2 is rotated 90 degrees clockwise it matches up with Cube 1-F3 if the sequence is complimented; then the same with Cube 0-F5 and Cube 1-F4. 
@@ -580,59 +576,54 @@ Here are the methods of striping used for the 64-base sequence:
 
 4x4x4 - 
 
-AAAA CCCC TTTT GGGG
-
-AAAA CCCC TTTT GGGG
-
-AAAA CCCC TTTT GGGG
-
-AAAA CCCC TTTT GGGG
+S0 | S1 | S2 | S3
+--- |--- |--- |---
+AAAA |CCCC |TTTT |GGGG
+AAAA |CCCC |TTTT |GGGG
+AAAA |CCCC |TTTT |GGGG
+AAAA |CCCC |TTTT |GGGG
 
 8x8 - 
 
-AAAA AAAA TTTT TTTT 
-
-AAAA AAAA TTTT TTTT
-
-CCCC CCCC GGGG GGGG
-
-CCCC CCCC GGGG GGGG
+S0 | S1 | S2 | S3
+--- |--- |--- |---
+AAAA |AAAA |TTTT |TTTT 
+AAAA |AAAA |TTTT |TTTT
+CCCC |CCCC |GGGG |GGGG
+CCCC |CCCC |GGGG |GGGG
 
 16X4 - 
 
-AAAA AAAA AAAA AAAA
-
-CCCC CCCC CCCC CCCC
-
-TTTT TTTT TTTT TTTT
-
-GGGG GGGG GGGG GGGG
+S0 | S1 | S2 | S3
+--- |--- |--- |---
+AAAA |AAAA |AAAA |AAAA
+CCCC |CCCC |CCCC |CCCC
+TTTT |TTTT |TTTT |TTTT
+GGGG |GGGG |GGGG |GGGG
 
 
 The mapping of the stripes onto the cube slices isn't the only concern.  What if the there is a discriminator in the data which tells to reorder the slices?  One would assume that the input sequence would be different, but that may be a bad assumption.  If during slice construction a sequence was not allowed to be on a face?  A slice order discriminator would be one option.  Assuming the standard convention, as above, is to place them in order 0,1,2,3 then rearranging them according to a different order would result in a different cube.  Assuming the above 8x8 example is used, and the new ordering pattern is 3,2,1,0 the slices would be:
 
 8x8 - 3,2,1,0
 
-TTTT TTTT AAAA AAAA
-
-TTTT TTTT AAAA AAAA
-
-GGGG GGGG CCCC CCCC
-
-GGGG GGGG CCCC CCCC
+S0 | S1 | S2 | S3
+--- |--- |--- |---
+TTTT |TTTT |AAAA |AAAA
+TTTT |TTTT |AAAA |AAAA
+GGGG |GGGG |CCCC |CCCC
+GGGG |GGGG |CCCC |CCCC
 
 
 In addition to a slice ordering modification to the mapping process, each of the slices could undergo a rotation.  It was chosen to use a 90 degree rotation clockwise as a standard for the program.  Each slice could undergo 0 to three rotations.  Assuming the above 8x8 - 3,2,1,0 and applying in order a rotation of 0,0,0,1, the following slice pattern would be
 
 8x8 - 3,2,1,0 - 0,0,0,1
 
-TTTT TTTT AAAA CCAA
-
-TTTT TTTT AAAA CCAA
-
-GGGG GGGG GGGG CCAA 
-
-GGGG GGGG GGGG CCAA
+S0 | S1 | S2 | S3
+--- |--- |--- |---
+TTTT |TTTT |AAAA |CCAA
+TTTT |TTTT |AAAA |CCAA
+GGGG |GGGG |GGGG |CCAA 
+GGGG |GGGG |GGGG |CCAA
 
 
 When constructing the faces of the cubes, it was decided to represent each face as a sequence of bases starting from the upper-left corner and progressing to the lower-right corner as if the cube was rotated to face you.  Face 0 would simply be slice 0, while Face 5 would be the mirror image of slice 4.
