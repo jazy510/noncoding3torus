@@ -9,7 +9,7 @@ The nature of this mathematical structure may lead to a large-scale [[3D-Torus i
 
 # TABLE OF CONTENTS 
 
-- TLDR/BLUF
+- [TLDR/BLUF](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#tldrbluf)
 - TABLE OF CONTENTS
 - PREFACE
 - BACKGROUND AND BASICS
