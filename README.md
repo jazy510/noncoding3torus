@@ -6,8 +6,6 @@ Despite a strong statistical improbability, significant portions of the non-codi
 
 The nature of this mathematical structure may lead to a large-scale [[3D-Torus interconnect](https://en.wikipedia.org/wiki/Torus_interconnect)] that is self-ordering, self-orienting, and self-error detecting.  The fact that this mathematical structure is found pervasively through our DNA needs to be examined and verified or refuted by statisticians, mathematical topologists, geneticists, computer scientists, information theorists, computational biologists, and informatics experts in academia and the public sector.  Program source code and instructions have been provided to bootstrap and expedite analytic efforts.
 
-The source code can be found at https://www.github.com/noncoding3torus/
-
 
 
 -------------------------------------------------------
