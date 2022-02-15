@@ -389,7 +389,7 @@ Message container detection methods would be determined by who the recipient is.
 
 If the recipient is the intended recipient of the sender, detection would be forthright since the method of detection is probably shared apriori.  The number of methods to determine if a certain sequence is a message or message container could be nearly infinite and only known to the sender and recipient.  They would however be limited to what is biologically possible in the organism that is carrying the message container. 
 
-However, if the recipient is not the intended recipient, or the recipient needs to figure out how to find the message or message container, we would find that is the situation we are in now.  If some type of message [stenography](https://en.wikipedia.org/wiki/Steganography) were used, detection would be very difficult.
+However, if the recipient is not the intended recipient, or the recipient needs to figure out how to find the message or message container, we would find that is the situation we are in now.  If some type of message [stenography](https://en.wikipedia.org/wiki/Steganography) were used, detection would be very difficult.  [One such method has already been employed.](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-020-01387-0)
 
 An analysis could be performed on the genome, looking specifically at the non-coding sequences since that would be the most likely place to put messages of significant size.  The coding sections of DNA could hold messages, but it would be exponentially more difficult to create an efficient protein while also placing a worthwhile message, message piece, or message container within it.  
 
