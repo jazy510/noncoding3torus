@@ -235,10 +235,10 @@ Each of these elements will be highlighted, even if briefly.  Many sub-sections 
 Through this entire document the terms, "message", "message piece", "message block", and "message container" are used copiously. 
 
 Let us define the following:
-MESSAGE - The fully unbroken or reconstructed set of information that is conveyed to the recipient
-MESSAGE PIECE - A subset of the MESSAGE.  A message piece SHOULD be wrapped in a MESSAGE CONTAINER.
-MESSAGE BLOCK - A 64-base sequence that contains information to construct a MESSAGE CONTAINER, and carries a MESSAGE PIECE
-MESSAGE CONTAINER - A structure that is used to reorder, detect errors, information to correct errors, and reassemble MESSAGE PIECES into a MESSAGE. 
+- MESSAGE - The fully unbroken or reconstructed set of information that is conveyed to the recipient
+- MESSAGE PIECE - A subset of the MESSAGE.  A message piece SHOULD be wrapped in a MESSAGE CONTAINER.
+- MESSAGE BLOCK - A 64-base sequence that contains information to construct a MESSAGE CONTAINER, and carries a MESSAGE PIECE
+- MESSAGE CONTAINER - A structure that is used to reorder, detect errors, information to correct errors, and reassemble MESSAGE PIECES into a MESSAGE. 
 
 
 ## SENDER 
