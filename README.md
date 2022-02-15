@@ -1,6 +1,4 @@
--------------------------------------------------------
--------------------- TLDR/BLUF ------------------------
--------------------------------------------------------
+# TLDR/BLUF 
 
 Despite a strong statistical improbability, significant portions of the non-coding sections of the genomes of multiple species (including Homo Sapiens) are found to generate [[Three-Dimensional Toruses](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)] with a One-Half Mobius twist per face interconnect when 64-base sequences are mapped into a cubic structure.  
 
