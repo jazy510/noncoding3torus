@@ -115,8 +115,11 @@ Each bit represents two possible combinations.  When strung together, the possib
 The DNA sequences used for this analysis can be found at: https://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Homo_sapiens/latest_assembly_versions/GCF_000001405.39_GRCh38.p13/GCF_000001405.39_GRCh38.p13_genomic.fna.gz
 
 The cryptographic hashes of the above file are:
+
   md5sum 84d56a8f8cd75fdde8f60c4e022f9ab7
+  
   sha1sum 19025e1902ff6c3657e9c846bc141ed323d2a199
+  
   sha256sum 4ef2a29c6425b2b99086aac23d70194704ec67b3ade730d40d96a831e9740777
 
 
