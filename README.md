@@ -526,15 +526,10 @@ A sequence was chosen and it was decided to make it into a series of six 4x4 gri
 The below sequences are just examples, not what was actually used.  They were written out on paper to see if any patterns started to emerge.  Note that I am going to use 'atgc' for bases not of interest, and 'ATGC' for bases of interest to highlight.  The FASTA file format reserves lowercase 'atgc' for repeated sequences (Learned that one the hard way).  Note that in the below example if there are multiple repeating sequences they are not important; they are just to highlight the sequences of interest.
 
 Cube 0:
-
  F0   F1   F2   F3   F4   F5
- 
-aaaT cccA aaaa cccc tttt aaaG 
-
+aaaT cccA aaaa cccc tttt aaaG
 aaaC cccC aaaa cccc tttt aaaT
-
 aaaG cccG aaaa cccc tttt aaaT
-
 aaaA cccA TGGA cccc tttt aaaT
 
 
