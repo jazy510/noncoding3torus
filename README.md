@@ -10,31 +10,31 @@ The nature of this mathematical structure may lead to a large-scale [[3D-Torus i
 # TABLE OF CONTENTS 
 
 - [TLDR/BLUF](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#tldrbluf)
-- TABLE OF CONTENTS
-- PREFACE
-- BACKGROUND AND BASICS
-  - DNA
-  - DNA INFORMATION THEORY
-  - INFORMATION THEORY
-  - TORUSES AND MOBIUS TWISTS
-- SHANNON-WEAVER MODEL ANALYSIS
-  - SENDER
-  - SENDER MESSAGE INTENDED INTERPRETATION AND ACTIONS
-  - MESSAGE ENCRYPTION 
-  - MESSAGE CONTAINERIZATION
-  - MESSAGE CHANNEL AND TRANSMISSION 
-  - NOISE 
-  - MESSAGE AMPLIFICATION AND ERROR CORRECTION 
-  - MESSAGE DETECTION 
-  - MESSAGE RECEPTION 
-  - MESSAGE DECONTAINERIZATION 
-  - MESSAGE DECRYPTION 
-  - RECEIVER 
-  - RECEIVER MESSAGE INTERPRETATION AND ACTIONS 
-  - FEEDBACK
-  - MESSAGE CONTAINERIZATION/DECONTAINERIZATION 
-- CONCLUSIONS
-- OUTSTANDING QUESTIONS
+- [TABLE OF CONTENTS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#table-of-contents)
+- [PREFACE](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#preface)
+- [BACKGROUND AND BASICS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#background-and-basics)
+  - [DNA](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#background-and-basics)
+  - [DNA INFORMATION THEORY](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#dna-information-theory)
+  - [INFORMATION THEORY](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#information-theory)
+  - [TORUSES AND MOBIUS TWISTS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#toruses-and-mobius-twists)
+- [SHANNON-WEAVER MODEL ANALYSIS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#shannon-weaver-model-analysis)
+  - [SENDER](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#sender)
+  - [SENDER MESSAGE INTENDED INTERPRETATION AND ACTIONS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#sender-message-intended-interpretation-and-actions)
+  - [MESSAGE ENCRYPTION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-encryption)
+  - [MESSAGE CONTAINERIZATION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-containerization)
+  - [MESSAGE CHANNEL AND TRANSMISSION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-channel-and-transmission)
+  - [NOISE](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#noise)
+  - [MESSAGE AMPLIFICATION AND ERROR CORRECTION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-amplification-and-error-correction)
+  - [MESSAGE DETECTION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-detection)
+  - [MESSAGE RECEPTION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-reception)
+  - [MESSAGE DECONTAINERIZATION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-decontainerization)
+  - [MESSAGE DECRYPTION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-decryption)
+  - [RECEIVER](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#receiver)
+  - [RECEIVER MESSAGE INTERPRETATION AND ACTIONS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#receiver-message-interpretation-and-actions)
+  - [FEEDBACK](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#feedback)
+  - [MESSAGE CONTAINERIZATION/DECONTAINERIZATION](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#message-containerizationdecontainerization)
+- [CONCLUSIONS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#conclusions)
+- [OUTSTANDING QUESTIONS](https://github.com/noncoding3torus/noncoding3torus/blob/main/README.md#outstanding-questions)
 
 
 
