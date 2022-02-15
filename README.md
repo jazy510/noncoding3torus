@@ -1,8 +1,7 @@
-=======================================================
 -------------------------------------------------------
 -------------------- TLDR/BLUF ------------------------
 -------------------------------------------------------
-=======================================================
+
 Despite a strong statistical improbability, significant portions of the non-coding sections of the genomes of multiple species (including Homo Sapiens) are found to generate [[Three-Dimensional Toruses](https://web.archive.org/web/20220213201326if_/https://i.imgur.com/a5SqvgU.gif)] with a One-Half Mobius twist per face interconnect when 64-base sequences are mapped into a cubic structure.  
 
 The nature of this mathematical structure may lead to a large-scale [[3D-Torus interconnect](https://en.wikipedia.org/wiki/Torus_interconnect)] that is self-ordering, self-orienting, and self-error detecting.  The fact that this mathematical structure is found pervasively through our DNA needs to be examined and verified or refuted by statisticians, mathematical topologists, geneticists, computer scientists, information theorists, computational biologists, and informatics experts in academia and the public sector.  Program source code and instructions have been provided to bootstrap and expedite analytic efforts.
@@ -10,11 +9,11 @@ The nature of this mathematical structure may lead to a large-scale [[3D-Torus i
 The source code can be found at https://www.github.com/noncoding3torus/
 
 
-=======================================================
+
 -------------------------------------------------------
 ---------------- TABLE OF CONTENTS --------------------
 -------------------------------------------------------
-=======================================================
+
 - TLDR/BLUF
 - TABLE OF CONTENTS
 - PREFACE
@@ -43,11 +42,11 @@ The source code can be found at https://www.github.com/noncoding3torus/
 - OUTSTANDING QUESTIONS
 
 
-=======================================================
+
 -------------------------------------------------------
 ---------------------- PREFACE ------------------------
 -------------------------------------------------------
-=======================================================
+
 The following is presented in such a manner as to be understood by educated laypersons with little to no familiarity with genetics, mathematical topology, information and coding theory, combinatorics, discrete mathematics, or computer science.  Although the below may be a slow read for specialists in each of these fields, the simplification, explanation, and abstractions of many of the concepts are necessary for most readers because of the complexity of the ideas involved.  Python code to replicate and expand upon the work is provided.
 
 February first of 2022 marked the start of the largest celebrations of the year for much of the Eastern Hemisphere; the Lunar New Year. It is a time of celebration of life and welcoming the new year with visitation with friends and family.  While most festivities end seven days later, many Chinese festivals last until February 16th.  The Chinese words for the number "4" and "death" are phonetically very similar.  It is considered bad luck to speak the number four during the Chinese new year and is avoided.  Out of respect for the one-and-a-half billion Chinese speakers around the world the release of this information was delayed so they could spend that time with friends and families without the taboo of the word "4" being spoken during that time.  It is ironic that the number four is so prevalent when dealing with DNA (The very thing of life) and the geometric structures contained within it; yet has a strong connotation to death in the Chinese language.
@@ -55,11 +54,11 @@ February first of 2022 marked the start of the largest celebrations of the year 
 It is hoped that the 50+ billion man-years of knowledge, intellect, history, and culture of the Chinese people can be applied to this topic to answer many of the outstanding questions quickly and be shared openly with the rest of the world as they race to find the answers themselves.  It is very serendipitous that the Olympics, an international cooperative of comparatively large scale, are being held in Beijing at this time.  May the Olympics be a model from which the world can engage peacefully and respectfully with one another on a topic of such importance. We can all hope that peace will remain with us all, and that fresh conflict and death will not sully this golden opportunity for cooperation in the coming days, months, and years. 
    
 
-=======================================================
+
 -------------------------------------------------------
 -------------- BACKGROUND AND BASICS ------------------
 -------------------------------------------------------
-=======================================================
+
 
 On 21 October 2021, "Theories of Everything" producer Curt Jaimungal [[interviewed](http://youtu.be/wULw64ZL1BG?t=2430)] [[Luis Elizondo](https://en.m.wikipedia.org/wiki/Luis_Elizondo)].  During the interview Mr. Elizondo highlighted the fact that one could place a message in DNA that could survive for millions of years; and alluded that such a message exists.  Although discussed for a short time, no effort was publicly announced by either independent or organizational researchers to verify or refute his claims.  Given the ramifications if such a message did in fact exist, despite the minuscule chance of a positive finding, it was deemed worthwhile to independently apply some analytic effort and computational resources to determine if his comments held merit.  If academia wasn't go to get involved and the governments of the world weren't going to release the information (if they have any), then a results-oriented, stubborn-as-heck, ignorance-loathing, hates-being-lied-to, obsessive-puzzle-solving, well-educated-but-not-too-bright, random-person-on-the-Internet is going to have to do it for them; which is exactly what they were calling for.
 
@@ -71,9 +70,9 @@ At this point, doing everything possible to avoid flights of fancy and hours of 
 
 Before continuing, three basic topics need to be reviewed.  Those topics are DNA basics, DNA Information Theory Basics, and Torus and Mobius Twist Basics.
 
-=========
+
 -- DNA --
-=========
+
 The information in [[DNA](https://en.wikipedia.org/wiki/DNA)] is composed of four base molecules, each represented here by a single letter: A, T, C, G.  These letters are called bases or base pairs.  
 
 The [[human genome](https://en.wikipedia.org/wiki/Human_genome)] has approximately three billion of these base pairs.
@@ -92,9 +91,9 @@ The remaining 99 PERCENT of the three billion bases constitute something called 
 
 Still, roughly and conservatively, 80 PERCENT of the Human genome is found to have no function whatsoever.  I has been assumed that the "Junk DNA" is residual from virus DNA, bacterial DNA, and mutations that have found there way into our genome via various means and propagated indefinitely.  This means that about 2.4 Billion bases have no known function.
 
-============================
+=
 -- DNA INFORMATION THEORY --
-============================
+=
 
 DNA can be viewed as a digital storage mechanism; and [[has been used as such](https://en.wikipedia.org/wiki/DNA_digital_data_storage)].  It is a like a Hard Drive that is stored in every one of your cells.
 
@@ -123,9 +122,7 @@ The cryptographic hashes of the above file are:
   sha1sum 19025e1902ff6c3657e9c846bc141ed323d2a199
   sha256sum 4ef2a29c6425b2b99086aac23d70194704ec67b3ade730d40d96a831e9740777
 
-========================
 -- INFORMATION THEORY --
-========================
 "Randomness" is a very hard thing to measure.  "Randomness" is generally a measure of multiple different measurements.  There is no binary yes or no answer to the question "Is It Random?".  One such measure is that of Entropy.
 
 [[Entropy](https://en.wikipedia.org/wiki/Entropy)].  Entropy can be summarized as the measure of statistical disorder.  A repeating sequence of 'ATGC' 100 times will have high entropy if the whole corpus of available values is only A,T,G, and C; but it will not have high randomness.  Entropy is easy to calculate and not too computationally expensive, so it is used as our basic measure to determine uniqueness through the analysis.  As an example, the sequence 'AAAAAAAAAAA' will have ZERO entropy; but 'AAAAAAABBBBBBB' will have an entropy of 1.  In our analysis, since we are working strictly with 'ATGC', the maximum entropy we can have is 2.  If multiple letters were combined in binary form and assigned their own symbol the entropy measurement could go much higher.
@@ -138,9 +135,7 @@ Interestingly, the Birthday Paradox can be used as a proof of contradiction in t
 [[ERROR CORRECTION AND FORWARD ERROR CORRECT- FEC](https://en.wikipedia.org/wiki/Error_correction_code)] is a method to include extra data in a data stream to both detect and correct errors.  There are multiple methods to perform error correction, and one could even devise their own error correction schemes.  However, there are limits to how little of information that must be sent in order to detect and correct an error of a given size.  Data redundancy is the simplest and least inefficient form of error detection and correction.
 
 
-================================
 -- TORUSES AND MOBIUS TWISTS  --
-================================
 
 A [[Mobius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)] is a one-dimensional object that sweeps out [[two-dimensions](https://en.wikipedia.org/wiki/M%C3%B6bius_strip#/media/File:M%C3%B6bius_strip.jpg)] in three dimension and a 180 Degree twist is added. It is one of the most mathematically interesting objects ever conceived.  It only has one side!  If you follow your finger along the Mobius strip you will find you can return to the point from where you started without ever lifting up your finger.
 
@@ -184,11 +179,9 @@ Not being a mathematical topologist, one could only guess that a ONESSELF cube i
 Finally, we have to touch on [[Torus Interconnects.](https://en.wikipedia.org/wiki/Torus_interconnect)]  If one were to [[extend each cube face to its neighbors](https://i.imgur.com/YwuqTuZ.png https://web.archive.org/web/20220213201603if_/https://i.imgur.com/YwuqTuZ.png)] so that it is a fully-connected network you would have a Torus Interconnect.  The image shows that each node in the network is a ONESSELF cube, but that not may be the case.  As long as each face is connected to its neighbor and the "END" cubes connect to one-another, it is a fully-connected Torus interconnect/network.  Each cube could also have a 1/2 Mobius twist to its neighbors and still retain the torus interconnect structure.  IBM's Blue Gene supercomputers use such multi-dimensional torus interconnects; and are quite coincidentally named! 
 
 
-========================================
 ----------------------------------------
 ---- SHANNON-WEAVER MODEL ANALYSIS -----
 ----------------------------------------
-========================================
 
 
 The [[Shannon-Weaver model](https://en.m.wikipedia.org/wiki/Shannon%E2%80%93Weaver_model)] traditionally has five elements, but more elements seem to be applicable in this case.  
@@ -219,9 +212,9 @@ MESSAGE PIECE - A subset of the MESSAGE.  A message piece SHOULD be wrapped in a
 MESSAGE BLOCK - A 64-base sequence that contains information to construct a MESSAGE CONTAINER, and carries a MESSAGE PIECE
 MESSAGE CONTAINER - A structure that is used to reorder, detect errors, information to correct errors, and reassemble MESSAGE PIECES into a MESSAGE. 
 
-=======================================================
+
 -------------------- SENDER ---------------------------
-=======================================================
+
 Very little information has been provided about the senders of any messages in this case.  However, just from the fact that a message could have been placed in our DNA and the DNA of other species, and subsequent analysis (See MESSAGE CONTAINERIZATION/DECONTAINERIZATION), the following can be inferred:
   
 - They modified the DNA of our species or its ancestors at least once in history
@@ -244,9 +237,9 @@ Very little information has been provided about the senders of any messages in t
 This is just one instance of interaction with the senders of possible message.  The more interaction with us that they have, the more information we can glean.  Of the thousands or millions of interactions they have had with our species, each one can draw boundary lines and outliers of their capabilities, thought processes, and codes of morality.  I have a VERY hard time believing anyone who has studied this phenomenon deeply for decades when they say they don't know anything about the senders, nor that we can't understand their thought processes, intentions, level of technology, types of technology, nor moral standards.
 
 
-=======================================================
+
 -- SENDER MESSAGE INTENDED INTERPRETATION AND ACTIONS -
-=======================================================
+
 
 The biases of any sender will be present during the process of trying to determine the interpretation of the sender.  Every message sent is go to have an intended reaction by the receiver.  That intended reaction may simply be a slight change in cognitive state, or to go as far as taking extreme kinetic action.
 
@@ -259,9 +252,9 @@ If the receiver is under observation by the sender, that observation is a feedba
 The only viable counters available to the receiver is to control the feedback mechanism by injecting chaos, randomness, and wildly unexpected responses, or to "Be predictable; then don't."
 
 
-=======================================================
+
 ---------------- MESSAGE ENCRYPTION -------------------
-=======================================================
+
 Message encryption is used to provide confidentiality and integrity validation of data.  Barring a variety of weaknesses, encryption of a message should provide the sender of the information a level of confidence that no one but the intended recipient could read the contents of the message.
 
 Two primary forms of encryption could be used to modify the message data for confidentiality.
@@ -284,16 +277,16 @@ Unless other transformations are applied, or care is taken to hide the contents 
 
 It is unknown if any encryption is applied, nor at what level it would be applied.  Encryption could be applied at the MESSAGE level, or at the MESSAGE PIECE level.  Depending on the encryption scheme the entire encrypted message MAY be needed to decrypt and get ANY of the message information.  If it is encrypted at the MESSAGE PIECE level using a [[block-cipher](https://en.wikipedia.org/wiki/Block_cipher)], then the majority of the message could be reconstructed if the encryption key is known. 
 
-=======================================================
+
 ------------- MESSAGE CONTAINERIZATION ----------------
-=======================================================
+
 Please see the MESSAGE CONTAINERIZATION/DECONTAINERIZATION section.
 
 For continuity; understand that the message is broken up into small pieces, wrapped in a container of other information, and placed on the communications channel.  The container itself is geometric in nature and is used to reconstruct the ordering of the original message, provide error detection, and possibly forward error correction.  The container itself may in fact carry message information if sufficient precomputing is done.  The message container itself may also have deep ties to physics, quantum computing, and the nature of reality.
 
-=======================================================
+
 ---------- MESSAGE CHANNEL AND TRANSMISSION -----------
-=======================================================
+
 The transmission of the message and the transmission channel are closely linked.  Modern communications channels send information electromagnetically via analog channels, then convert the analog information to digital.  The channel used for these messages is not so much a transmission of information, rather a storage of information that is transmitted temporally.  DNA is best viewed as a physical representation of binary information; more like data stored on magnetic media (Hard Drive) and copied.   
 
 After encoding and encrypting the message, the message pieces in the message containers are transmitted by placing it into the communications channel; an organism.  The message is then transmitted via copying and replication with every cell division and organism reproduction.
@@ -313,9 +306,9 @@ Species endangerment or extinction poses a problem for message recovery, but can
 The containers may be designed in such a way that should all adjacent containers be present around a missing container, the missing message container and message pieces could be recovered.
 
 
-=======================================================
+
 --------------------- NOISE ---------------------------
-=======================================================
+
 Anybody who has performed lab work in [[DNA swapping](https://web.archive.org/save/https://c.tenor.com/MxraJlBpR1wAAAAC/mr-bean-sitcom.gif)] and [[replication](https://web.archive.org/web/20211011013459if_/https://c.tenor.com/6Ly_NJuJjpsAAAAC/betty-white-winking.gif)] knows that the message channels can be very noisy.  
 
 Three basic types of noise are present in biological channels that could effect transmission of any message container.
@@ -338,9 +331,9 @@ To overcome noise several techniques are applied in modern communications system
 
 Biological storage systems have similar problems, hence similar solutions to overcome noise interference; some of those solutions are highlighted below.
 
-=======================================================
+
 ---- MESSAGE AMPLIFICATION AND ERROR CORRECTION -------
-=======================================================
+
 Message Retransmission isn't an option, but as mentioned above, multiple copies of the message and message containers could be distributed across multiple organisms in the multi-cast system.  This multiple-copy method is a form of Forward Error Correction through redundancy.
 
 Another form of Forward Error Correction (FEC), highlighted in the MESSAGE CONTAINERIZATION/DECONTAINERIZATION section, may also applied in the container of the message.  That FEC, if it exists, is probably exercised here.  The message container's FEC would be read by bio-mechanical machinery and corrections, even apoptosis, may occur. 
@@ -363,9 +356,9 @@ An partial, fictional, example of a pseudo-function of an exonuclease of interes
  Skip 4 sequences and Read, If Sum is 14, Skip 4 Sequences and put into state 2, else Error and Replace with C
  Read, If Sum == 14, sequence is good, else if Sum == 16 excise base and put in state 3... etc.
 
-=======================================================
+
 ------------------ MESSAGE DETECTION ------------------
-=======================================================
+
 Message container detection methods would be determined by who the recipient is.
 
 If the recipient is the intended recipient of the sender, detection would be forthright since the method of detection is probably shared apriori.  The number of methods to determine if a certain sequence is a message or message container could be nearly infinite and only known to the sender and recipient.  They would however be limited to what is biologically possible in the organism that is carrying the message container. 
@@ -381,9 +374,9 @@ Or one could get lucky and find patterns that resemble some odd feature, mathema
 Since no known steganography was used and the assumed message container follows a very defined set of geometric rules it can only be concluded that we are the intended recipients or the sender does not care if we intercept the message container.  Who would believe that there is a geometric structure in the mathematics of our DNA?  Would they assume that such information would be simply be buried because of a disbelief at the possibility?  Is the sender's assumption correct?
 
 
-=======================================================
+
 ---------------- MESSAGE RECEPTION --------------------
-=======================================================
+
 Since the communications channel is a DNA storage mechanism, the only way to receive the message is to read the sequences.  Accurate, full-genome sequencing of millions of species is well within the bounds of practicality of large institutions.
 
 Within a given species wide genetic variation can exist.  The variation is especially pronounced when the individuals of the species are spread across large geographic locations and inhabit differing ecospheres.
@@ -392,16 +385,16 @@ If message containers were in fact placed in multiple species across various geo
 
 Depending on the methodology of message block placement there may be ways to infer which species genomes, or which geographic regions and ecologies contain species that, may contain missing message blocks. 
 
-=======================================================
+
 ------------ MESSAGE DECONTAINERIZATION ---------------
-=======================================================
+
 Please see the MESSAGE CONTAINERIZATION/DECONTAINERIZATION section below.
 
 For continuity; understand that the message is broken up into small pieces, wrapped in a container of other information, and placed on the communications channel.  The container itself is geometric in nature and is used to reconstruct the ordering of the original message, provide error detection, and possibly forward error correction.  The container itself may in fact carry message information if sufficient precomputing is done.  The message container itself may also have deep ties to physics, quantum computing, and the nature of reality.
 
-=======================================================
+
 ----------------- MESSAGE DECRYPTION ------------------
-=======================================================
+
 - Is the message encrypted?
 - If so, do we know the encryption scheme.
 - Do we have decryption keys?
@@ -419,9 +412,9 @@ Maybe our friends in various three-letter agencies around the world can answer t
 Given the novelty of the message container there is a very real possibility that the message container itself could contain a methodology or programmatic way to decrypt any encrypted data.
   
 
-=======================================================
+
 ------------------ RECEIVER ---------------------------
-=======================================================
+
   We assume that we are the intended recipients of any message.  
 
 - Is this an incorrect assumption? 
@@ -436,9 +429,9 @@ Given the novelty of the message container there is a very real possibility that
 As you can see it is very possible that we, Homo Sapiens, at this level of development may not in fact be the intended recipients of such messages.  Asking these questions are very important to the understanding the intentions of the sending party.  Are we listening in on a private conversation that we have no business listening to?  Are we merely the the conduits of information flow?
 
 
-=======================================================
+
 ---- RECEIVER MESSAGE INTERPRETATION AND ACTIONS ------
-=======================================================
+
 
 - Are we able to interpret the message as the sender?
 - Are we able to interpret the message as the sender intended for us to interpret it?
@@ -475,9 +468,9 @@ If we can't understand the message or its container the following conclusions ca
 - The message may be meaningless, but our response to it is not
 - The message may be a distraction - [[Was String Theory such a distraction](https://youtu.be/iQOibplDx-4?t=855)]
 
-=======================================================
+
 ---------------------- FEEDBACK -----------------------
-=======================================================
+
 
   - Is there a feedback mechanism?
   - If there is a feedback mechanism, what is it?
@@ -489,9 +482,9 @@ At least as an exercise of imagination, the context of [[this video](https://you
 If you analyze the information flow directions and feedback in models like this, you gain a deeper understanding of the phenomenon and diminish any possible control and manipulation mechanisms if they exist.
 
     
-=======================================================
+
 ---- MESSAGE CONTAINERIZATION/DECONTAINERIZATION ------
-=======================================================
+
 
 Knowing that the vast majority of DNA was "Junk DNA" and that it had no known function made it a prime candidate to begin exploration.  There was no information as to what a message would look like, how it would be distinguished between any other DNA bases, etc.  
 
@@ -682,11 +675,9 @@ A command to generate a 3 Torus network of given dimensions is included in the p
 In summary, there are strong statistical indications that at least hundreds of ONESSELF cubes have been placed in the human genome.  Furthermore, hundreds of thousands of cubes of a 3-Torus with a 1/2 Mobius twist geometry exist in the human genome.  The cubes may represent a network of interconnected cubes.  The interconnected cubes may act not only as a message ordering mechanism, but also as an error-detection system.   
 
 
-======================================
 --------------------------------------
 ------------ CONCLUSIONS -------------
 --------------------------------------
-======================================
 
 
 There exists in multiple genomes a significant number of mathematical structures that would be considered a 3-Torus with a 1/2 Mobius twist.  The structures may map themselves into large structures called a Torus Interconnect.  These structures would have the benefit of self-ordering and self-error detecting.
@@ -707,11 +698,9 @@ How did we know that a message was placed in our DNA to go looking for it in the
 
 What are we supposed to do with this information and should we act on it?
 
-=============================================================
 -------------------------------------------------------------
 ------------------- OUTSTANDING QUESTIONS -------------------
 -------------------------------------------------------------
-=============================================================
 
 - Is there a computationally fast way to identify valid 64-base message blocks?
 - What is the Forward Error Correction scheme?
